@@ -41,5 +41,29 @@ This area of research is widely open. For the pivoted bootstrap algorithm to wor
   
 Collaborators:  <a href="https://sites.google.com/site/nzoupersonal/home">Nan Zou</a>.
   
+#### Density estimation via robust normalizing flows      
+(Machine Learning and Probability)
 
+In the recent years, with the proliferation of machine learning research, modeling and prediction of real-world phenomena have progressed to the next level. There are numerous problems connected to statistics, probability theory, and dynamical systems that can be solved using machine learning. The problem of modeling an unknown probability distribution using sample data is one such example. A Normalizing flow (NF) in machine learning is a supervised learning procedure that determines the probability distribution of sample data by performing a maximum likelihood optimization.
 
+We introduced a triangular NFs on euclidean spaces using Bernstein polynomials as coupling functions. Our NF model is robust under perturbations, ideal for compactly supported densities and can approximate any density even the ones that are multimodal and have sharp jumps. There are many real-world applications in nonlinear geometries (circular, spherical, etc.); for instance, applications in robotics and molecular modeling. Can we formulate robust normalizing flows in such non-linear geometries?
+
+Collaborators:  <a href="https://scholar.google.com/citations?user=-j0m9aMAAAAJ&hl=en">Sameera Ramasinghe</a>.
+
+#### Error terms in the large deviations for weakly dependent random variables      
+(Dynamical Systems and Stochastic Processes)      
+
+For parabolic PDEs (with non-degeneracy assumptions) the fundamental solution is the transition density of the related diffusion process. Therefore, studying the long-term behaviour of fundamental solutions is the same as studying asymptotics of Markov probability densities. For a reasonable analysis, one must obtain LDPs which describe the solution at linear distances from the effective drift. A finer analysis is possible if higher order asymptotics is available. We introduced the required asymptotic expansions for probability distribution functions.     
+
+The first term of the large deviation asymptotics of the density of a branching process is obtained in a work of Hebbar, Koralov and Nolan. Is it possible to derive higher order expansions for densities of Markov processes? Moreover, our results do not apply to lattice valued processes but techniques for lattice-valued case in our previous work extend to this setting naturally. So, is it possible to obtain similar results in the lattice-valued case?        
+
+Collaborators: <a href="https://sites.google.com/view/pratimahebbar">Pratima Hebbar</a>.     
+
+#### Statistical properties of mostly expanding fast-slow partially hyperbolic systems           
+(Smooth Ergodic Theory)
+
+When systems are partially hyperbolic, as demonstrated in the series of recent influential work of De Simoi, Liverani and coauthors, the study of statistical properties becomes challenging. They demonstrate metastable behaviour in a deterministic setting for the first time by considering an open class of fast-slow partially hyperbolic systems with mostly contracting centre directions. They also study the existence of SRB measures, their rate of decay of correlations, LLTs and LDPs.        
+
+There are some interesting questions related that require further exploration. What statistical properties are retained if the fast-slow partially hyperbolic systems considered there have mostly expanding centre directions? In particular, what conditions guarantee the existence of SRB measures and do they have exponential decay of correlations?    
+
+Collaborators: <a href="http://www.math.toronto.edu/jacopods/">Jacopo de Simoi</a>.<p></p></li>
