@@ -6,8 +6,9 @@ permalink: /Research/
 Broadly speaking, the prime focus of my research is the interplay between probability theory, dynamical systems and statistics. I investigate 
 - statistical properties of dynamical systems and Markov processes,
 - inferential statistics in the context of dynamical systems, and 
-- higher order asymptotics for limit theorems                                      
-using spectral theory and a combination of techniques from classical probability theory, stochastic analysis, statistics and dynamical systems. Recently, I have started looking at 
+- higher order asymptotics for limit theorems    
+
+using spectral theory and a combination of techniques from classical probability theory, stochastic analysis, statistics and dynamical systems. Recently, I have started looking at      
 - applications of machine learning to solve related problems. 
 
 Below, I have listed some of my research interests, the motivation behind them and the collaborators I work with. If you find the problems interesting and would like to discuss, don't hesitate to write to me.                     
