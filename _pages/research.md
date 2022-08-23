@@ -19,7 +19,7 @@ In applications, the dynamically generated data available to us are always finit
 
 As the next few steps, we have some questions in mind. Is it possible to describe the error in the CLT when we pick a particular discrete random variable instead of describing the typical error? In particular, how do the Diophantine properties of the support of the discrete random variable affect this error? Also, in the absence of uniform error estimates, can we describe the error in weaker norms?                               
 
-Collaborators: <a href="https://www.math.umd.edu/~dolgop/">Dmitry Dolgopyat</a>.
+Collaborators: <a href="https://www.math.umd.edu/~dolgop/" target="_blank">Dmitry Dolgopyat</a>.
 
 #### Error terms in the local and the central limit theorem for weakly dependent random variables    
 (Dynamical Systems and Stochastic Processes)                  
@@ -28,7 +28,7 @@ In practice, sequences of experimental observations are never iid! So, we introd
 
 There are many interesting problems in this direction. There are interesting examples of non-Gaussian stable laws in dynamical systems. Is it possible to describe the error terms in other stable laws? Earlier, we were able to obtain exact limit theorems for random matrix products. Drawing parallels with random matrix products, can we obtain similar statistical properties for deterministic cocycles with sufficient decorrelation in the base dynamics?           
 
-Collaborators: <a href="https://www.mat.uniroma2.it/~liverani/">Carlangelo Liverani</a>, <a href="http://lmba.math.univ-brest.fr/perso/francoise.pene/">Fran&ccedil;oise P&egrave;ne</a>                       
+Collaborators: <a href="https://www.mat.uniroma2.it/~liverani/" target="_blank">Carlangelo Liverani</a>, <a href="http://lmba.math.univ-brest.fr/perso/francoise.pene/" target="_blank">Fran&ccedil;oise P&egrave;ne</a>                       
   
 #### Inferential statistics for dynamically generated data        
 (Statistics and Dynamical Systems)                     
@@ -39,7 +39,7 @@ We introduced A generic bootstrap methods for dynamical systems. Under some gene
   
 This area of research is widely open. For the pivoted bootstrap algorithm to work, either we should know the asymptotic variance or we should be able to readily estimate it. As far as we know, there is no theoretically-justified estimator for the asymptotic variance in a dynamical context. To solve this problem, can we find a good estimator for asymptotic variance? If so, what is the theoretical and empirical behavior of the pivoted bootstrap method based on this estimator? 
   
-Collaborators:  <a href="https://sites.google.com/site/nzoupersonal/home">Nan Zou</a>.
+Collaborators:  <a href="https://sites.google.com/site/nzoupersonal/home" target="_blank">Nan Zou</a>.
   
 #### Density estimation via robust normalizing flows      
 (Machine Learning and Probability)
@@ -48,7 +48,7 @@ In the recent years, with the proliferation of machine learning research, modeli
 
 We introduced a triangular NFs on euclidean spaces using Bernstein polynomials as coupling functions. Our NF model is robust under perturbations, ideal for compactly supported densities and can approximate any density even the ones that are multimodal and have sharp jumps. There are many real-world applications in nonlinear geometries (circular, spherical, etc.); for instance, applications in robotics and molecular modeling. Can we formulate robust normalizing flows in such non-linear geometries?
 
-Collaborators:  <a href="https://scholar.google.com/citations?user=-j0m9aMAAAAJ&hl=en">Sameera Ramasinghe</a>.
+Collaborators:  <a href="https://scholar.google.com/citations?user=-j0m9aMAAAAJ&hl=en" target="_blank">Sameera Ramasinghe</a>.
 
 #### Error terms in the large deviations for weakly dependent random variables      
 (Dynamical Systems and Stochastic Processes)      
@@ -57,7 +57,7 @@ For parabolic PDEs (with non-degeneracy assumptions) the fundamental solution is
 
 The first term of the large deviation asymptotics of the density of a branching process is obtained in a work of Hebbar, Koralov and Nolan. Is it possible to derive higher order expansions for densities of Markov processes? Moreover, our results do not apply to lattice valued processes but techniques for lattice-valued case in our previous work extend to this setting naturally. So, is it possible to obtain similar results in the lattice-valued case?        
 
-Collaborators: <a href="https://sites.google.com/view/pratimahebbar">Pratima Hebbar</a>.     
+Collaborators: <a href="https://sites.google.com/view/pratimahebbar" target="_blank">Pratima Hebbar</a>.     
 
 #### Statistical properties of mostly expanding fast-slow partially hyperbolic systems           
 (Smooth Ergodic Theory)
@@ -66,4 +66,4 @@ When systems are partially hyperbolic, as demonstrated in the series of recent i
 
 There are some interesting questions related that require further exploration. What statistical properties are retained if the fast-slow partially hyperbolic systems considered there have mostly expanding centre directions? In particular, what conditions guarantee the existence of SRB measures and do they have exponential decay of correlations?    
 
-Collaborators: <a href="http://www.math.toronto.edu/jacopods/">Jacopo de Simoi</a>.<p></p></li>
+Collaborators: <a href="http://www.math.toronto.edu/jacopods/" target="_blank">Jacopo De Simoi</a>.<p></p></li>
