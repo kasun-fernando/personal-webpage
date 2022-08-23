@@ -13,7 +13,7 @@ using spectral theory and a combination of techniques from classical probability
 
 Below, I discuss some of my research interests, the motivation behind them and the collaborators I work with. If you find the problems interesting and would like to discuss, don't hesitate to write to me.                     
 
-### Extension of the classical theory of Edgeworth expansions to non-lattice discrete random variables       
+#### Extension of the classical theory of Edgeworth expansions to non-lattice discrete random variables       
 (Classical Probability Theory)                   
 
 In applications, the dynamically generated data available to us are always finite-time observations. Hence, one key problem is to control the error of approximation of asymptotic behaviour. When the observations are independent identically distributed (iid), a uniform asymptotic expansion called the Edgeworth Expansion is used to describe the error of normal approximation in the Central Limit Theorem (CLT). The classical theory about these expansions is far from complete and does not discuss discrete random variables. As the first step, we extended the existing theory to include typical discrete random variables.                             
@@ -22,7 +22,7 @@ As the next few steps, we have some questions in mind. Is it possible to describ
 
 Collaborators: [Dmitry Dolgopyat](https://www.math.umd.edu/~dolgop/).
 
-### Error terms in the local and the central limit theorem for weakly dependent random variables    
+#### Error terms in the local and the central limit theorem for weakly dependent random variables    
 (Dynamical Systems and Stochastic Processes)                  
 
 In practice, sequences of experimental observations are never iid! So, we introduced a general theory of Edgeworth expansions for weakly dependent (possibly unbounded) random variables. As a direct application of this theory, we obtain error estimates of the CLTs for a large class of hyperbolic dynamical systems and Markov chains. The hyperbolic systems that we discuss like Sinai billiards and piecewise expanding maps are natural models in many applications -- billiard models in optics, acoustics and classical mechanics, and expanding maps in random number generators, biological and medical models to name a few. 
@@ -31,7 +31,7 @@ There are many interesting problems in this direction. There are interesting exa
 
 Collaborators: [Carlangelo Liverani](https://www.mat.uniroma2.it/~liverani/), [Fran&ccedil;oise P&egrave;ne](http://lmba.math.univ-brest.fr/perso/francoise.pene/).
   
-### Inferential statistics for dynamically generated data        
+#### Inferential statistics for dynamically generated data        
 (Statistics and Dynamical Systems)                     
 
 Parameter estimation problems in dynamical systems arise naturally in many areas, including machine learning, physics, econometrics, and engineering. Moreover, one should be able to apply tools from statistics to limited dynamically generated data and obtain meaningful inferences. Therefore, it is imperative that we investigate inferential statistics in the context of dynamical systems. However, since dynamically generated data are not iid, it is not straightforward to show the accuracy of statistical techniques. So, there must be rigorous justifications for tools like maximal likelihood methods and the Bootstrap when used in such contexts.                               
@@ -42,7 +42,7 @@ This area of research is widely open. For the pivoted bootstrap algorithm to wor
   
 Collaborators: [Nan Zou](https://sites.google.com/site/nzoupersonal/home).
   
-### Density estimation via robust normalizing flows      
+#### Density estimation via robust normalizing flows      
 (Machine Learning and Probability)
 
 In the recent years, with the proliferation of machine learning research, modeling and prediction of real-world phenomena have progressed to the next level. There are numerous problems connected to statistics, probability theory, and dynamical systems that can be solved using machine learning. The problem of modeling an unknown probability distribution using sample data is one such example. A Normalizing flow (NF) in machine learning is a supervised learning procedure that determines the probability distribution of sample data by performing a maximum likelihood optimization.
@@ -51,7 +51,7 @@ We introduced a triangular NFs on euclidean spaces using Bernstein polynomials a
 
 Collaborators: [Sameera Ramasinghe](https://scholar.google.com/citations?user=-j0m9aMAAAAJ&hl=en).
 
-### Error terms in the large deviations for weakly dependent random variables      
+#### Error terms in the large deviations for weakly dependent random variables      
 (Dynamical Systems and Stochastic Processes)      
 
 For parabolic PDEs (with non-degeneracy assumptions) the fundamental solution is the transition density of the related diffusion process. Therefore, studying the long-term behaviour of fundamental solutions is the same as studying asymptotics of Markov probability densities. For a reasonable analysis, one must obtain LDPs which describe the solution at linear distances from the effective drift. A finer analysis is possible if higher order asymptotics is available. We introduced the required asymptotic expansions for probability distribution functions.     
@@ -60,7 +60,7 @@ The first term of the large deviation asymptotics of the density of a branching 
 
 Collaborators: [Pratima Hebbar](https://sites.google.com/view/pratimahebbar).     
 
-### Statistical properties of mostly expanding fast-slow partially hyperbolic systems           
+#### Statistical properties of mostly expanding fast-slow partially hyperbolic systems           
 (Smooth Ergodic Theory)
 
 When systems are partially hyperbolic, as demonstrated in the series of recent influential work of De Simoi, Liverani and coauthors, the study of statistical properties becomes challenging. They demonstrate metastable behaviour in a deterministic setting for the first time by considering an open class of fast-slow partially hyperbolic systems with mostly contracting centre directions. They also study the existence of SRB measures, their rate of decay of correlations, LLTs and LDPs.        
