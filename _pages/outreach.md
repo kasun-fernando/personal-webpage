@@ -11,4 +11,5 @@ In this day and age, Social media can be used for outreach activities in an extr
  - අතාත්වික සංඛ්‍යා වල ඉතිහාසය - The History of Complex Numbers      
 [![IMAGE_ALT](https://img.youtube.com/vi/GBrp8-JGOQw/0.jpg)](https://www.youtube.com/watch?v=GBrp8-JGOQw)
 
-youtube: [විද්‍යාඥයෙක් වෙන්නෙ කොහොමද? - How to Become a Scientist?](https://www.youtube.com/watch?v=tCJ-_bU4BS0)
+ - විද්‍යාඥයෙක් වෙන්නෙ කොහොමද? - How to Become a Scientist?    
+[![IMAGE_ALT](https://img.youtube.com/vi/tCJ-_bU4BS0/0.jpg)](https://www.youtube.com/watch?v=tCJ-_bU4BS0)
