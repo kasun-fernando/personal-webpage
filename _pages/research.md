@@ -12,7 +12,7 @@ using spectral theory and a combination of techniques from classical probability
 
 Below, I discuss some of my research interests, the motivation behind them and the collaborators I work with. If you find the problems interesting and would like to discuss, don't hesitate to write to me.                     
 
-#### Extension of the classical theory of Edgeworth expansions to non-lattice discrete random variables       
+### Extension of the classical theory of Edgeworth expansions to non-lattice discrete random variables       
 (Classical Probability Theory)                   
 
 In applications, the dynamically generated data available to us are always finite-time observations. Hence, one key problem is to control the error of approximation of asymptotic behaviour. When the observations are independent identically distributed (iid), a uniform asymptotic expansion called the Edgeworth Expansion is used to describe the error of normal approximation in the Central Limit Theorem (CLT). The classical theory about these expansions is far from complete and does not discuss discrete random variables. As the first step, we extended the existing theory to include typical discrete random variables.                             
@@ -21,7 +21,7 @@ As the next few steps, we have some questions in mind. Is it possible to describ
 
 Collaborators: <a href="https://www.math.umd.edu/~dolgop/" target="_blank">Dmitry Dolgopyat</a>.
 
-#### Error terms in the local and the central limit theorem for weakly dependent random variables    
+### Error terms in the local and the central limit theorem for weakly dependent random variables    
 (Dynamical Systems and Stochastic Processes)                  
 
 In practice, sequences of experimental observations are never iid! So, we introduced a general theory of Edgeworth expansions for weakly dependent (possibly unbounded) random variables. As a direct application of this theory, we obtain error estimates of the CLTs for a large class of hyperbolic dynamical systems and Markov chains. The hyperbolic systems that we discuss like Sinai billiards and piecewise expanding maps are natural models in many applications -- billiard models in optics, acoustics and classical mechanics, and expanding maps in random number generators, biological and medical models to name a few. 
@@ -30,7 +30,7 @@ There are many interesting problems in this direction. There are interesting exa
 
 Collaborators: <a href="https://www.mat.uniroma2.it/~liverani/" target="_blank">Carlangelo Liverani</a>, <a href="http://lmba.math.univ-brest.fr/perso/francoise.pene/" target="_blank">Fran&ccedil;oise P&egrave;ne</a>                       
   
-#### Inferential statistics for dynamically generated data        
+### Inferential statistics for dynamically generated data        
 (Statistics and Dynamical Systems)                     
 
 Parameter estimation problems in dynamical systems arise naturally in many areas, including machine learning, physics, econometrics, and engineering. Moreover, one should be able to apply tools from statistics to limited dynamically generated data and obtain meaningful inferences. Therefore, it is imperative that we investigate inferential statistics in the context of dynamical systems. However, since dynamically generated data are not iid, it is not straightforward to show the accuracy of statistical techniques. So, there must be rigorous justifications for tools like maximal likelihood methods and the Bootstrap when used in such contexts.                               
@@ -59,7 +59,7 @@ The first term of the large deviation asymptotics of the density of a branching 
 
 Collaborators: <a href="https://sites.google.com/view/pratimahebbar" target="_blank">Pratima Hebbar</a>.     
 
-#### Statistical properties of mostly expanding fast-slow partially hyperbolic systems           
+### Statistical properties of mostly expanding fast-slow partially hyperbolic systems           
 (Smooth Ergodic Theory)
 
 When systems are partially hyperbolic, as demonstrated in the series of recent influential work of De Simoi, Liverani and coauthors, the study of statistical properties becomes challenging. They demonstrate metastable behaviour in a deterministic setting for the first time by considering an open class of fast-slow partially hyperbolic systems with mostly contracting centre directions. They also study the existence of SRB measures, their rate of decay of correlations, LLTs and LDPs.        
