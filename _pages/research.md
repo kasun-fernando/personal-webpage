@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Research
-permalink: /Research/
+layout: page   
+title: Research        
+permalink: /Research/          
 ---
 Broadly speaking, the prime focus of my research is the interplay between probability theory, dynamical systems and statistics. I investigate 
 - statistical properties of dynamical systems and Markov processes,
