@@ -1,6 +1,6 @@
 ---
-layout: default   
-title: Research        
+layout: default      
+title: Research              
 permalink: /Research/          
 ---
 Broadly speaking, the prime focus of my research is the interplay between probability theory, dynamical systems and statistics. I investigate 
