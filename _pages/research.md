@@ -13,14 +13,12 @@ using spectral theory and a combination of techniques from classical probability
 
 Below, I discuss some of my research interests, the motivation behind them and the collaborators I work with. If you find the problems interesting and would like to discuss, don't hesitate to write to me.                     
 
-<details>
-<summary>
-<h4>Extension of the classical theory of Edgeworth expansions to non-lattice discrete random variables</h4> 
-</summary>    
+<details open>
+<summary>Extension of the classical theory of Edgeworth expansions to non-lattice discrete random variables</summary>    
 
-(Classical Probability Theory)<br>                          
+(Classical Probability Theory)<br><br>                     
 
-In applications, the dynamically generated data available to us are always finite-time observations. Hence, one key problem is to control the error of approximation of asymptotic behaviour. When the observations are independent identically distributed (iid), a uniform asymptotic expansion called the Edgeworth Expansion is used to describe the error of normal approximation in the Central Limit Theorem (CLT). The classical theory about these expansions is far from complete and does not discuss discrete random variables. As the first step, we extended the existing theory to include typical discrete random variables.<br>                              
+In applications, the dynamically generated data available to us are always finite-time observations. Hence, one key problem is to control the error of approximation of asymptotic behaviour. When the observations are independent identically distributed (iid), a uniform asymptotic expansion called the Edgeworth Expansion is used to describe the error of normal approximation in the Central Limit Theorem (CLT). The classical theory about these expansions is far from complete and does not discuss discrete random variables. As the first step, we extended the existing theory to include typical discrete random variables.<br><br>                              
 
 As the next few steps, we have some questions in mind. Is it possible to describe the error in the CLT when we pick a particular discrete random variable instead of describing the typical error? In particular, how do the Diophantine properties of the support of the discrete random variable affect this error? Also, in the absence of uniform error estimates, can we describe the error in weaker norms?    
 </details>       
@@ -28,9 +26,7 @@ As the next few steps, we have some questions in mind. Is it possible to describ
 Collaborators: [Dmitry Dolgopyat](https://www.math.umd.edu/~dolgop/).      
 
 <details>
-<summary> 
-<h4>Error terms in the local and the central limit theorem for weakly dependent random variables</h4>
-</summary>      
+<summary>Error terms in the local and the central limit theorem for weakly dependent random variables</summary>      
   
 (Dynamical Systems and Stochastic Processes)<br>           
 
@@ -42,24 +38,20 @@ There are many interesting problems in this direction. There are interesting exa
 Collaborators: [Carlangelo Liverani](https://www.mat.uniroma2.it/~liverani/), [Fran&ccedil;oise P&egrave;ne](http://lmba.math.univ-brest.fr/perso/francoise.pene/).
   
 <details>
-<summary>
-<h4>Inferential statistics for dynamically generated data</h4> 
-</summary> 
+<summarry>Inferential statistics for dynamically generated data</summary>                    
+  
+(Statistics and Dynamical Systems)<br>                    
 
-(Statistics and Dynamical Systems)<br>                     
-
-Parameter estimation problems in dynamical systems arise naturally in many areas, including machine learning, physics, econometrics, and engineering. Moreover, one should be able to apply tools from statistics to limited dynamically generated data and obtain meaningful inferences. Therefore, it is imperative that we investigate inferential statistics in the context of dynamical systems. However, since dynamically generated data are not iid, it is not straightforward to show the accuracy of statistical techniques. So, there must be rigorous justifications for tools like maximal likelihood methods and the Bootstrap when used in such contexts.<br>                              
-We introduced A generic bootstrap methods for dynamical systems. Under some general conditions, using a novel continuous Edgeworth expansions, we establish not only the consistency but also the higher-order accuracy the bootstrap. We also study the empirical performance of the bootstrap methods using computer simulations.<br>  
+Parameter estimation problems in dynamical systems arise naturally in many areas, including machine learning, physics, econometrics, and engineering. Moreover, one should be able to apply tools from statistics to limited dynamically generated data and obtain meaningful inferences. Therefore, it is imperative that we investigate inferential statistics in the context of dynamical systems. However, since dynamically generated data are not iid, it is not straightforward to show the accuracy of statistical techniques. So, there must be rigorous justifications for tools like maximal likelihood methods and the Bootstrap when used in such contexts.<br>                                   
+We introduced A generic bootstrap methods for dynamical systems. Under some general conditions, using a novel continuous Edgeworth expansions, we establish not only the consistency but also the higher-order accuracy the bootstrap. We also study the empirical performance of the bootstrap methods using computer simulations.<br> 
   
 This area of research is widely open. For the pivoted bootstrap algorithm to work, either we should know the asymptotic variance or we should be able to readily estimate it. As far as we know, there is no theoretically-justified estimator for the asymptotic variance in a dynamical context. To solve this problem, can we find a good estimator for asymptotic variance? If so, what is the theoretical and empirical behavior of the pivoted bootstrap method based on this estimator? 
 </details>  
 
 Collaborators: [Nan Zou](https://sites.google.com/site/nzoupersonal/home).
 
-<details>
-<summary>
-<h4>Density estimation via robust normalizing flows</h4> 
-</summary> 
+<details>        
+<summary>Density estimation via robust normalizing flows</summary> 
 
 (Machine Learning, Statistics and Probability)<br>
 
@@ -70,11 +62,9 @@ We introduced a triangular NFs on euclidean spaces using Bernstein polynomials a
 
 Collaborators: [Sameera Ramasinghe](https://scholar.google.com/citations?user=-j0m9aMAAAAJ&hl=en).
 
-<details>
-
-<h4> Error terms in the large deviations for weakly dependent random variables  
-</summary>
-  
+<details>            
+</summary>Error terms in the large deviations for weakly dependent random variables</summary>             
+        
 (Dynamical Systems and Stochastic Processes)<br>    
 
 For parabolic PDEs (with non-degeneracy assumptions) the fundamental solution is the transition density of the related diffusion process. Therefore, studying the long-term behaviour of fundamental solutions is the same as studying asymptotics of Markov probability densities. For a reasonable analysis, one must obtain LDPs which describe the solution at linear distances from the effective drift. A finer analysis is possible if higher order asymptotics is available. We introduced the required asymptotic expansions for probability distribution functions.<br>   
@@ -85,13 +75,11 @@ The first term of the large deviation asymptotics of the density of a branching 
 Collaborators: [Pratima Hebbar](https://sites.google.com/view/pratimahebbar).     
 
 <details>
-<summary>
-<h4>Statistical properties of mostly expanding fast-slow partially hyperbolic systems</h4>
-</summary>
+<summary>Statistical properties of mostly expanding fast-slow partially hyperbolic systems</summary>
 
-(Smooth Ergodic Theory)<br>
-
-When systems are partially hyperbolic, as demonstrated in the series of recent influential work of De Simoi, Liverani and coauthors, the study of statistical properties becomes challenging. They demonstrate metastable behaviour in a deterministic setting for the first time by considering an open class of fast-slow partially hyperbolic systems with mostly contracting centre directions. They also study the existence of SRB measures, their rate of decay of correlations, LLTs and LDPs.<br>       
+(Smooth Ergodic Theory)<br>             
+                  
+When systems are partially hyperbolic, as demonstrated in the series of recent influential work of De Simoi, Liverani and coauthors, the study of statistical properties becomes challenging. They demonstrate metastable behaviour in a deterministic setting for the first time by considering an open class of fast-slow partially hyperbolic systems with mostly contracting centre directions. They also study the existence of SRB measures, their rate of decay of correlations, LLTs and LDPs.<br>                        
 There are some interesting questions related that require further exploration. What statistical properties are retained if the fast-slow partially hyperbolic systems considered there have mostly expanding centre directions? In particular, what conditions guarantee the existence of SRB measures and do they have exponential decay of correlations?   
 </details>
 
