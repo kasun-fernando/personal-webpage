@@ -6,6 +6,6 @@
 
 https://kasun-fernando.github.io/personal-webpage/
 
-# My website and blog
+### My website and blog
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
