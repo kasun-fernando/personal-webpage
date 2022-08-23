@@ -1,16 +1,5 @@
 {
   
-    
-        "post0": {
-            "title": "Title",
-            "content": "Importing Libraries to Plot . %matplotlib inline # graphs will be produced in the same file not in a separate window import numpy as np # imporitng the numpy library as np import matplotlib.pyplot as plt # import the pyplot library as plot plt.style.use(&#39;ggplot&#39;) # Selecting the plot style . Plotting Simple Functions . Example: Plotting $y= sin x, , , , - pi &lt; x &lt; pi$. | . x = np.linspace(-np.pi, np.pi) # make an array of x values in linear scale y = np.sin(x) # make an array of sin x values plt.plot(x, y) # plot y against x as a graph plt.show() # show the plot in line . Example: Log scale plots When you set values for $x$, you can do it in log scale by the np.logspace(#,#) command. $x$ and $y$ axis are converted to log scale by plt.xscale(&quot;log&quot;) and plt.yscale(&quot;log&quot;) commands. | . def func (x,n): y= x**n return y # func (x,n) will return y=x^n x = np.logspace(-2,2) # x values from 10^-2 to 10^2 equi-spaced plt.xlabel(&quot;$x$&quot;) # set x axis label plt.ylabel(&quot;$y$&quot;) # set y axis label plt.xscale(&quot;log&quot;) # x axis in log scale plt.yscale(&quot;log&quot;) # y axis in log scale plt.plot(x,func(x,1),label=&#39;y=x&#39;) # plot y=x plt.plot(x,func(x,2),label=&#39;y=x^2&#39;) # plot y=x^2 plt.plot(x,func(x,3),label=&#39;y=x^3&#39;) # plot y=x^3 plt.plot(x,func(x,5),label=&#39;y=x^5&#39;) # plot y=x^5 plt.plot(x,func(x,10),label=&#39;y=x^10&#39;) # plot y=x^10 plt.legend() # show the labeling plt.show() # show plots in-line . Random sequneces and distributions . Example: Plotting a histogram We generate $N$ random numbers between $0$ and $1$ and then make a histogram. The function hist makes this an easy task. It can be customized to the requirement too. | . N = 1000 np.random.seed(0) # initialize random number generator # The seed should be int or 1-D array_like R = np.random.rand(N) # generates random numbers and stores it as R plt.hist(R,bins=10) plt.show() # plot histogram of R plt.hist(R,bins=100,density=True) plt.show() # plot a normlaized histogram of R #customize it a bit plt.hist(R, bins=20, rwidth=0.8, color=&#39;#607c8e&#39;) plt.show() . Example: Plotting trajectories of a 1-D random walk | . StepNo = 1000 # number of random steps plt.xlabel(&quot;Number of steps&quot;) plt.ylabel(&quot;Position&quot;) for SeedNo in range(7): # 7 random walk trajectories np.random.seed(SeedNo) # for each value of SeedNo in the range we generate a different random sequence step = np.random.choice([-1,1], StepNo) # make random choices of +1 or -1 for each step position = np.cumsum(step) # calculate the position of the walk at each step plt.plot(position) # plot position at each step against step .",
-            "url": "https://kasun-fernando.github.io/personal-webpage/2022/08/23/graphing-with-python.html",
-            "relUrl": "/2022/08/23/graphing-with-python.html",
-            "date": " • Aug 23, 2022"
-        }
-        
-    
-  
 
   
   
@@ -18,7 +7,7 @@
   
 
   
-      ,"page2": {
+      "page2": {
           "title": "Outreach",
           "content": "",
           "url": "https://kasun-fernando.github.io/personal-webpage/Outreach/",
