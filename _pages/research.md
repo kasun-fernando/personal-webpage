@@ -41,7 +41,7 @@ This area of research is widely open. For the pivoted bootstrap algorithm to wor
   
 Collaborators:  <a href="https://sites.google.com/site/nzoupersonal/home" target="_blank">Nan Zou</a>.
   
-#### Density estimation via robust normalizing flows      
+### Density estimation via robust normalizing flows      
 (Machine Learning and Probability)
 
 In the recent years, with the proliferation of machine learning research, modeling and prediction of real-world phenomena have progressed to the next level. There are numerous problems connected to statistics, probability theory, and dynamical systems that can be solved using machine learning. The problem of modeling an unknown probability distribution using sample data is one such example. A Normalizing flow (NF) in machine learning is a supervised learning procedure that determines the probability distribution of sample data by performing a maximum likelihood optimization.
@@ -50,7 +50,7 @@ We introduced a triangular NFs on euclidean spaces using Bernstein polynomials a
 
 Collaborators:  <a href="https://scholar.google.com/citations?user=-j0m9aMAAAAJ&hl=en" target="_blank">Sameera Ramasinghe</a>.
 
-#### Error terms in the large deviations for weakly dependent random variables      
+### Error terms in the large deviations for weakly dependent random variables      
 (Dynamical Systems and Stochastic Processes)      
 
 For parabolic PDEs (with non-degeneracy assumptions) the fundamental solution is the transition density of the related diffusion process. Therefore, studying the long-term behaviour of fundamental solutions is the same as studying asymptotics of Markov probability densities. For a reasonable analysis, one must obtain LDPs which describe the solution at linear distances from the effective drift. A finer analysis is possible if higher order asymptotics is available. We introduced the required asymptotic expansions for probability distribution functions.     
