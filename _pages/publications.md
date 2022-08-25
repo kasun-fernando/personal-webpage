@@ -1,3 +1,8 @@
+---
+layout: default      
+title: Publications             
+permalink: /Publications/          
+---
 Here is a list of completed research articles along with their their abstracts. 
 
 <details open>
