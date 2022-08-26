@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://kasun-fernando.github.io/personal-webpage/python/numerical%20integration/ode%20solver/euler%20method/runge%20kutta%20method/2022/08/23/numerical-integration-with-python.html</loc>
-<lastmod>2022-08-23T00:00:00-05:00</lastmod>
-</url>
-<url>
 <loc>https://kasun-fernando.github.io/personal-webpage/</loc>
 </url>
 <url>
@@ -20,14 +16,11 @@
 <loc>https://kasun-fernando.github.io/personal-webpage/search/</loc>
 </url>
 <url>
-<loc>https://kasun-fernando.github.io/personal-webpage/categories/</loc>
-</url>
-<url>
 <loc>https://kasun-fernando.github.io/personal-webpage/otherfiles/EdgeManyAtoms.pdf</loc>
-<lastmod>2022-08-25T23:52:04-05:00</lastmod>
+<lastmod>2022-08-26T00:05:10-05:00</lastmod>
 </url>
 <url>
 <loc>https://kasun-fernando.github.io/personal-webpage/otherfiles/KasunFernandoCV.pdf</loc>
-<lastmod>2022-08-25T23:52:04-05:00</lastmod>
+<lastmod>2022-08-26T00:05:10-05:00</lastmod>
 </url>
 </urlset>
