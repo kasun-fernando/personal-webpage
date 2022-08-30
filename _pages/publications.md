@@ -5,7 +5,7 @@ permalink: /Publications/
 ---
 Here is a list of completed research articles along with their their abstracts. Don't hesitate to write to me if you don't have access to the published articles.       
 
-- <a href="otherfiles/EdgeManyAtoms.pdf"><h4><em>An error term in the Central Limit Theorem for sums of discrete random variables.</em></h4></a>                                     
+- <a href="otherfiles/EdgeManyAtoms.pdf"><em>An error term in the Central Limit Theorem for sums of discrete random variables.</em></a>                                     
 #### We consider sums of independent identically distributed random variables those distributions have $d+1$ atoms. Such distributions never admit an Edgeworth expansion of order $d$ but we show that for almost all parameters the Edgeworth expansion of order $d-1$ is valid and the error of the order $d-1$ Edgeworth expansion is typically of order $n^{-d/2}$.
 
 with Dmitry Dolgopyat, 42 pp (revisions submitted)<br>    
