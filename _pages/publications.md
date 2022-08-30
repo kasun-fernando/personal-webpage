@@ -1,5 +1,5 @@
 ---
-layout: default      
+layout: postmod     
 title: Publications             
 permalink: /Publications/          
 ---
