@@ -1,5 +1,5 @@
 ---
-layout: categories      
+layout: postmod      
 title: Outreach              
 permalink: /Outreach/          
 ---
