@@ -12,7 +12,7 @@ Since I am part of the visible minority, through my lived experiences, I have un
 
 Currently, I am collaborating with Pamela Brittain at [The Fields Academy](https://fieldsacademy.ca/) to develop _Fields Elementary Educator Courses_ to help elementary teachers improve their math skills, and also, I am contributing to the _The Ask a Mathematician program_ at the academy. It brings mathematicians into school classrooms virtually with the hope of inspiring school students to perceive and approach math in a different way. 
 
-### The Outreach Office & Math+, Department of Mathematics, Univeristy of Toronto
+### The Outreach Office & Math+, Department of Mathematics, UofT
 
 The Math Outreach Office at UofT is established with the goal of providing great programs and resources for school students, parents, and teachers, as well as the general public with the hope of popularizing mathematics in Canada.  During the last four years, I was involved in outreach programmes organized by the [Math Outreach Office](http://mathplus.math.utoronto.ca/) at the University of Toronto inclduing the Canadian Open Mathematics Challenge (COMC).      
 
