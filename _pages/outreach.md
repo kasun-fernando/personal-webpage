@@ -4,7 +4,7 @@ title: Outreach
 permalink: /Outreach/          
 ---
 
-Since I am part of the visible minority, through my lived experiences, I have understood the importance of role models, visibility and also, the availability of opportunities during school and further education. This is why I was involved in outreach and diversity promotion activities since the beginning of my undergraduate studies. Below, I have listed four key avenues through which I have made contributions. I plan to continue my community involvement as a mathematician and an educator in the future. 
+Since I am part of the visible minority, through my lived experiences, I have understood the importance of role models, visibility and also, the availability of opportunities during school and further education. This is why I was involved in outreach and diversity promotion activities since the beginning of my undergraduate studies. Below, I have listed four key avenues through which I have made contributions. I plan to continue my community involvement in the future. 
 
 ### The Fields Institute & the Fields Academy
 
