@@ -10,7 +10,7 @@ Since I am part of the visible minority, through my lived experiences, I have un
 
 [The Fields Institute](http://www.fields.utoronto.ca/) is one key organization in Canada providing support for mathematical research as well as education. Since the beginning of my postdoctoral work at the University of Toronto (UofT), I have contributed to the [Math Circles](http://www.fields.utoronto.ca/activities/seminars/math-circles) at the Fields Institute. It is an extracurricular high school mathematics club open to all school students who want to learn mathematics beyond the school curriculum. 
 
-Currently, I am collaborating with Pamela Brittain at [The Fields Academy](https://fieldsacademy.ca/) to develop _Fields Elementary Educator Courses_ to help elementary teachers improve their math skills, and also, I am contributing to the _The Ask a Mathematician program_ at the academy. It brings mathematicians into school classrooms virtually with the hope of inspiring school students to perceive and approach math in a different way. 
+Currently, I am collaborating with Pamela Brittain at [The Fields Academy](https://fieldsacademy.ca/) to develop _Fields Elementary Educator Courses_ to help elementary teachers improve their math skills, and also, I am contributing to the _Ask a Mathematician program_ at the academy. The latter brings mathematicians into school classrooms virtually with the hope of inspiring school students to perceive and approach math in a different way. 
 
 ### The Outreach Office & Math+, Department of Mathematics, UofT
 
