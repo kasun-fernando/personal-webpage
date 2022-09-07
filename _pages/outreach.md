@@ -6,8 +6,9 @@ permalink: /Outreach/
 
 ### The Fields Institute & the Fields Academy
 
+[The Fields Institute](http://www.fields.utoronto.ca/) is one key organization in Canada providing support for mathematical research as well as education. Since the beginning of my postdoctoral work at the University of Toronto (UofT), I have contributed to the [Math Circles](http://www.fields.utoronto.ca/activities/seminars/math-circles) which is an extracurricular high school enriched-level mathematics club.
 
-
+Currently, I am collaborating with Pamela Brittain at [The Fields Academy](https://fieldsacademy.ca/) to develop _Fields Elementary Educator Courses_ to help elementary teachers and teacher candidates boost their math skills, and also, contributing to the _The Ask a Mathematician program_ which brings mathematicians into school classroom virtually with the hope of inspiring students to see mathematics in a whole new way. 
 
 ### The Outreach Office & Math+, Department of Mathematics, Univeristy of Toronto
 
