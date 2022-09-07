@@ -5,13 +5,15 @@ permalink: /Publications/
 ---
 Here is a list of completed research articles along with their their abstracts. Don't hesitate to write to me if you don't have access to the published articles.<br> <br>        
 
-- <a href="otherfiles/EdgeManyAtoms.pdf"><em>An error term in the Central Limit Theorem for sums of discrete random variables.</em></a> with Dmitry Dolgopyat, 42 pp (revisions submitted)<br><br>   
+- <a href="otherfiles/EdgeManyAtoms.pdf"><em>An error term in the Central Limit Theorem for sums of discrete random variables.</em></a> 
+<font size = "3">with Dmitry Dolgopyat, 42 pp (revisions submitted)</font><br><br>   
                                    
-<font size = "3">We consider sums of independent identically distributed random variables those distributions have $d+1$ atoms. Such distributions never admit an Edgeworth expansion of order $d$ but we show that for almost all parameters the Edgeworth expansion of order $d-1$ is valid and the error of the order $d-1$ Edgeworth expansion is typically of order $n^{-d/2}$.</font><br><br>              
+<font size = "3">We consider sums of independent identically distributed random variables those distributions have $d+1$ atoms. Such distributions never admit an Edgeworth expansion of order $d$ but we show that for almost all parameters the Edgeworth expansion of order $d-1$ is valid and the error of the order $d-1$ Edgeworth expansion is typically of order $n^{-d/2}$.</font><br>             
                   
-- <a href="https://arxiv.org/abs/2108.08461"><em>The Bootstrap for dynamical systems</em></a> with Nan Zou, 69 pp (submitted)<br><br> 
+- <a href="https://arxiv.org/abs/2108.08461"><em>The Bootstrap for dynamical systems</em></a><br> 
+<font size = "3">with Nan Zou, 69 pp (submitted)</font><br><br> 
   
-<font size = "3">Despite their deterministic nature, dynamical systems often exhibit seemingly random behaviour. Consequently, a dynamical system is usually represented by a probabilistic model of which the unknown parameters must be estimated using statistical methods. When measuring the uncertainty of such parameter estimation, the bootstrap stands out as a simple but powerful technique. In this paper, we develop the bootstrap for dynamical systems and establish not only its consistency but also its second-order efficiency via a novel continuous Edgeworth expansion for dynamical systems. Moreover, we verify the theoretical results about the bootstrap using computer simulations.</font><br><br>                
+<font size = "3">Despite their deterministic nature, dynamical systems often exhibit seemingly random behaviour. Consequently, a dynamical system is usually represented by a probabilistic model of which the unknown parameters must be estimated using statistical methods. When measuring the uncertainty of such parameter estimation, the bootstrap stands out as a simple but powerful technique. In this paper, we develop the bootstrap for dynamical systems and establish not only its consistency but also its second-order efficiency via a novel continuous Edgeworth expansion for dynamical systems. Moreover, we verify the theoretical results about the bootstrap using computer simulations.</font><br>               
               
 - <a href="https://arxiv.org/abs/2102.03509"><em>Robust normalizing flows using Bernstein-type polynomials.</em></a> with Sameera Ramasinghe, 15 pp (submitted)<br><br>     
                              
