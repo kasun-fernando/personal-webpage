@@ -20,9 +20,9 @@ In particular, I designed and conducted the [Canada Math Camp](http://mathplus.m
 
 I was also involved in the Fall Math Club series organized by the Outreach Office. In 2021, I designed and ran the Fall Math Contest Preparation Club for school students. Further, I was a speaker at the [Mathematics Union Toronto](https://mu.math.toronto.edu/home/about-us/) seminar series to introduce research level mathematics to undergraduates, a co-trainer in the Putnam competition training sessions for undergraduates and a co-trainer for the COMC grader training sessions, all oraganized in association with the Department of Mathematics, UofT.     
 
-### The Sri Lanka Olympiad Mathematics Foundations & the Ministry of Education, Sri Lanka
+### The SLOMF & the Ministry of Education, Sri Lanka
 
-[The Sri Lanka Olympiad Mathematics Foundations](https://www.facebook.com/slmathsolympiad/) (SLOMF) is a non-profit organization initiated in 2004 by several academics with the vision of creating a culture within Sri Lanka that appreciates mathematics and produces world class mathematicians. It also works closely with the Sri Lankan Ministry of Education (MoE) to deploy programs related to mathematics education.    
+[The Sri Lanka Olympiad Mathematics Foundation](https://www.facebook.com/slmathsolympiad/) (SLOMF) is a non-profit organization initiated in 2004 by several academics with the vision of creating a culture within Sri Lanka that appreciates mathematics and produces world class mathematicians. It also works closely with the Sri Lankan Ministry of Education (MoE) to deploy programs related to mathematics education.    
 
 From 2009 to 2014, during my undergraduate studies, I was a key facilitator at the SLOMF and at the Mathematics Branch of the MoE. I was involved in each and every aspect of the Sri Lankan Mathematical Olympiad (SLMO) from organizing it to setting the SLMO exam papers and training the Sri Lankan students for competitions. Further, I contributed to school teacher training programs organized in collaboration with the MoE. 
 
