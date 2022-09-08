@@ -25,8 +25,8 @@ Below, I have summarized my experience related to teaching.
 ### Teaching Experience
 
 #### **Minicourses** (designed and taught)
-- 2021 - Dynamical Systems: Stability, Bifurcations & Applications, International Conference on Multidisciplinary Approaches in Science
-- 2019 - Higher-order Asymptotics for Limit Theorems in Dynamical Systems, University of Toronto
+- 2021 - Dynamical Systems: Stability, Bifurcations & Applications, International Conference on Multidisciplinary Approaches in Science, University of Colombo
+- 2019 - Asymptotics for Limit Theorems in Dynamical Systems, University of Toronto
 - 2019 - Introduction to Dynamical Systems, University of Colombo      
 
 #### **Instructor** at the Math Outreach Office, University of Toronto
