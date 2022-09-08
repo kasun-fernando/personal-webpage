@@ -3,15 +3,15 @@ layout: postmod
 title: Research              
 permalink: /Research/          
 ---
-Broadly speaking, the prime focus of my research is the interplay between probability theory, dynamical systems and statistics. I investigate 
-- statistical properties of dynamical systems and Markov processes,
-- inferential statistics in the context of dynamical systems, and 
-- higher order asymptotics for limit theorems   
+Broadly speaking, the prime focus of my research is <b>the interplay between probability theory, dynamical systems and statistics</b>. I investigate 
+- <b>statistical properties of dynamical systems and Markov processes</b>,
+- <b>inferential statistics in the context of dynamical systems</b>, and 
+- <b>higher order asymptotics for limit theorems</b>   
  
 using spectral theory and a combination of techniques from classical probability theory, stochastic analysis, statistics and dynamical systems. Recently, I have started looking at      
-- applications of machine learning to solve related problems. 
+- <b>applications of machine learning</b> to problems related to previous research topics. 
 
-So far, I have collaborated with and have ongoing collaborations with a diverse group of researchers based in Australia, Austria, Canada, France, Italy, and the United States. Apart from dynamicists and probabilists, I have formed research connections with statisticians and machine learning researchers, and I am actively searching for interdisciplinary research opportunities.
+So far, I have collaborated with and have ongoing collaborations with a diverse group of researchers based in Australia, Austria, Canada, France, Italy, and the US. Apart from dynamicists and probabilists, I have formed research connections with machine learning researchers and statisticians, and I am actively searching for interdisciplinary research opportunities.
 
 Below, I discuss some of my research interests grouped by major themes. I mention the motivation behind each long-term project and the collaborators I work with. The resulting publications are [here](https://kasun-fernando.github.io/personal-webpage/Publications/).               
 
