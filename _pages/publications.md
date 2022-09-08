@@ -7,7 +7,12 @@ Here is a list of completed research articles along with their their abstracts. 
 
 - <a href="otherfiles/EdgeManyAtoms.pdf"><em>An error term in the Central Limit Theorem for sums of discrete random variables.</em></a> 
 <font size = "3">with Dmitry Dolgopyat, 42 pp (revisions submitted)</font>
->! Abstract <p align="justify"><font size = "2">We consider sums of independent identically distributed random variables those distributions have $d+1$ atoms. Such distributions never admit an Edgeworth expansion of order $d$ but we show that for almost all parameters the Edgeworth expansion of order $d-1$ is valid and the error of the order $d-1$ Edgeworth expansion is typically of order $n^{-d/2}$.</font></p>             
+<details>
+<summary>Abstract</summary>     
+  
+<font size = "2">We consider sums of independent identically distributed random variables those distributions have $d+1$ atoms. Such distributions never admit an Edgeworth expansion of order $d$ but we show that for almost all parameters the Edgeworth expansion of order $d-1$ is valid and the error of the order $d-1$ Edgeworth expansion is typically of order $n^{-d/2}$.</font> 
+</details>
+          
                   
 - <a href="https://arxiv.org/abs/2108.08461"><em>The Bootstrap for dynamical systems</em></a>
 <font size = "3">with Nan Zou, 69 pp (submitted)</font>
