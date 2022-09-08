@@ -3,8 +3,9 @@ layout: postmod
 title: Publications             
 permalink: /Publications/          
 ---
-Here is a list of completed research articles along with their their abstracts. Don't hesitate to write to me if you don't have access to the published articles.<br>        
----    
+Here is a list of completed research articles along with their their abstracts. Don't hesitate to write to me if you don't have access to the published articles.<br>   
+
+***
 <a href="otherfiles/EdgeManyAtoms.pdf"><em>An error term in the Central Limit Theorem for sums of discrete random variables.</em></a>
 <font size = "3">with Dmitry Dolgopyat, 42 pp (revisions submitted)</font>
 <details>
