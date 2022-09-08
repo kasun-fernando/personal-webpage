@@ -10,7 +10,7 @@ For more than a decade I have taught mathematics in various capacities to a dive
 - Nurturing creativity and mathematical talent,
 - Creating an inclusive classroom environment,
 - Fostering independence and critical thinking capabilities, and 
-- Motivating and guiding students to achieve their educational goals.      
+- Motivating and guiding students to realise their goals.      
 
 Below, I have summarized my experience related to teaching. 
 
@@ -21,7 +21,6 @@ Below, I have summarized my experience related to teaching.
 - 2019 - Pedagogical Reading Group -  _What the Best College Teachers Do_ by Prof. Ken Bain, Teaching and Learning Collaboration, University of Toronto
 - 2018 - Course design 101 - Teaching and Learning Collaboration, University of Toronto
 - 2014 - Teaching Seminar, Department of Mathematics, University of Maryland
-
 
 ### Teaching Experience
 
@@ -46,10 +45,8 @@ Below, I have summarized my experience related to teaching.
 #### **Instructor** at Sri Lanka Olympiad Mathematics Foundation 
 - 2009 to 2014 - Selecting, training and facilitating the Sri Lankan IMO and IMC teams
 
-
 #### **Teaching Assistant** at the Scuola Normale Superiore di Pisa 
 - Fall 2021 - Introduction to Dynamical Systems I 
-
 
 #### **Teaching Assistant** at the University of Maryland 
 - Spring 2018 - STAT601 Probability II, STAT410 Intro to Probability 
