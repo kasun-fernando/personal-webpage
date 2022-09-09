@@ -22,7 +22,7 @@ Below, I discuss some of my research interests thematically. I mention the motiv
 **Existence of Edgeworth expansions for weakly dependent random variables**          
 <font size = "3">Collaborators: Carlangelo Liverani, Fran&ccedil;oise P&egrave;ne</font>
 ---
-**Asymptotics in the large deviation theorems for weakly dependent random variables**           
+**Exact Large deviation asymptotics for weakly dependent random variables**           
 <font size = "3">Collaborator: Pratima Hebbar</font>
 ---
 **Adapting the bootstrap for dynamically generated data**        
