@@ -13,10 +13,34 @@ using spectral theory and a combination of techniques from classical probability
 
 So far, I have collaborated with and have ongoing collaborations with a diverse group of researchers based in Australia, Austria, Canada, France, Italy, and the US. Apart from dynamicists and probabilists, I have formed research connections with machine learning researchers and statisticians, and I am actively searching for interdisciplinary research opportunities.
 
-Below, I discuss some of my research interests grouped by major themes. I mention the motivation behind each long-term project and the collaborators I work with. The resulting publications can be found [here](https://kasun-fernando.github.io/personal-webpage/Publications/).               
+Below, I discuss some of my research interests thematically. I mention the motivation behind each long-term project and the collaborators I have been working with. The resulting publications can be found [here](https://kasun-fernando.github.io/personal-webpage/Publications/).    
+
+---
+### Failure of Edegworth expansions in the discrete iid setting
+<font size = "3">Collaborator: Dmitry Dolgopyat</font>
+---
+### Asymptotics in the local and central limit theorems for weakly dependent random variables
+<font size = "3">Collaborators: Carlangelo Liverani, Fran&ccedil;oise P&egrave;ne, Tanja Schindler</font>
+---
+### Asymptotics in the large deviation theorems for weakly dependent random variables
+<font size = "3">Collaborator: Pratima Hebbar</font>
+---
+### Adapting the bootstrap for dynamically generated data
+<font size = "3">Collaborator: Nan Zou</font>
+---
+### Estimating entropy of continued fraction expansions
+<font size = "3">Collaborators: Seulbee Lee, Stafano Marmi</font>
+---
+### Estimating data distirbutions via normalizing flows
+<font size = "3">Collaborator: Sameera Ramasinghe</font>
+---
+### Invariant measures for deterministic fast-slow systems
+<font size = "3">Collaborator: Jacopo De Simoi</font>
+---
+
 
 <!-- <details open>
-<summary><b>Error terms in the local and the central limit theorem for weakly dependent random variables</b></summary>      
+<summary><b>Error terms in the local and the central limit theorem for weakly dependent random variables</b></summary>     
   
 (Dynamical Systems and Stochastic Processes)<br><br>In applications, the dynamically generated data available to us are always finite-time observations. Hence, one key problem is to control the error of approximation of asymptotic behaviour. When the observations are independent identically distributed (iid), a uniform asymptotic expansion called the Edgeworth Expansion is used to describe the error of normal approximation in the Central Limit Theorem (CLT). Since sequences of experimental observations are never iid, we introduced a general theory of Edgeworth expansions for weakly dependent (possibly unbounded) random variables.<br><br>
 As a direct application of this theory, we obtain error estimates of the CLTs for a large class of hyperbolic dynamical systems and Markov chains. The hyperbolic systems that we discuss like Sinai billiards and piecewise expanding maps are natural models in many applications like billiard models in optics, acoustics and classical mechanics, and expanding maps in random number generators, biological and medical models to name a few.<br><br>
