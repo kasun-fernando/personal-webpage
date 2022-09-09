@@ -16,28 +16,28 @@ So far, I have collaborated with and have ongoing collaborations with a diverse 
 Below, I discuss some of my research interests thematically. I mention the motivation behind each long-term project and the collaborators I have been working with. The resulting publications can be found [here](https://kasun-fernando.github.io/personal-webpage/Publications/).    
 
 ---
-**Failure of Edegworth expansions in the discrete iid setting**
+**Failure of Edegworth expansions in the discrete iid setting**           
 <font size = "3">Collaborator: Dmitry Dolgopyat</font>
 ---
-**Existence of Edgeworth expansions for weakly dependent random variables**
+**Existence of Edgeworth expansions for weakly dependent random variables**          
 <font size = "3">Collaborators: Carlangelo Liverani, Fran&ccedil;oise P&egrave;ne</font>
 ---
-**Asymptotics in the large deviation theorems for weakly dependent random variables**
+**Asymptotics in the large deviation theorems for weakly dependent random variables**           
 <font size = "3">Collaborator: Pratima Hebbar</font>
 ---
-**Adapting the bootstrap for dynamically generated data**
+**Adapting the bootstrap for dynamically generated data**        
 <font size = "3">Collaborator: Nan Zou</font>
 ---
-**Estimating entropy of continued fraction expansions**
+**Estimating entropy of continued fraction expansions**             
 <font size = "3">Collaborators: Seulbee Lee, Stafano Marmi</font>
 ---
-**Estimating data distirbutions via normalizing flows**
+**Estimating data distirbutions via normalizing flows**            
 <font size = "3">Collaborator: Sameera Ramasinghe</font>
 ---
-**Statistics of Riemann-zeta function sampled over chaotic systems**
+**Statistics of Riemann-zeta function sampled over chaotic systems**            
 <font size = "3">Collaborators: Tanja Schindler</font>
 ---
-**Invariant measures for deterministic fast-slow systems**
+**Invariant measures for deterministic fast-slow systems**            
 <font size = "3">Collaborator: Jacopo De Simoi</font>
 ---
 
