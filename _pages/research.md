@@ -13,7 +13,7 @@ using spectral theory and a combination of techniques from classical probability
 
 So far, I have collaborated with and have ongoing collaborations with a diverse group of researchers based in Australia, Austria, Canada, France, Italy, and the US. Apart from dynamicists and probabilists, I have formed research connections with machine learning researchers and statisticians, and I am actively searching for interdisciplinary research opportunities.
 
-Below, I discuss some of my research interests grouped by major themes. I mention the motivation behind each long-term project and the collaborators I work with. The resulting publications are in the [publications](https://kasun-fernando.github.io/personal-webpage/Publications/) section.               
+Below, I discuss some of my research interests grouped by major themes. I mention the motivation behind each long-term project and the collaborators I work with. The resulting publications can be found [here](https://kasun-fernando.github.io/personal-webpage/Publications/).               
 
 <!-- <details open>
 <summary><b>Error terms in the local and the central limit theorem for weakly dependent random variables</b></summary>      
