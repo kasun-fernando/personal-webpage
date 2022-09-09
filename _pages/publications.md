@@ -5,8 +5,8 @@ permalink: /Publications/
 ---
 Here is a list of completed research articles along with their their abstracts. Don't hesitate to write to me if you don't have access to the published articles.<br>   
 
-***
-<a href="otherfiles/EdgeManyAtoms.pdf"><em>An error term in the Central Limit Theorem for sums of discrete random variables.</em></a>
+***         
+[**An error term in the Central Limit Theorem for sums of discrete random variables**](otherfiles/EdgeManyAtoms.pdf)     
 <font size = "3">with Dmitry Dolgopyat, 42 pp (revisions submitted)</font>
 <details>
 <summary>Abstract</summary>     
@@ -15,16 +15,16 @@ Here is a list of completed research articles along with their their abstracts. 
 </details>
 ---      
 
-<a href="https://arxiv.org/abs/2108.08461"><em>The Bootstrap for dynamical systems</em></a>
+[**The Bootstrap for dynamical systems**](https://arxiv.org/abs/2108.08461)     
 <font size = "3">with Nan Zou, 69 pp (submitted)</font>
 <details>
 <summary>Abstract</summary>     
   
 <p align="justify"><font size = "2">Despite their deterministic nature, dynamical systems often exhibit seemingly random behaviour. Consequently, a dynamical system is usually represented by a probabilistic model of which the unknown parameters must be estimated using statistical methods. When measuring the uncertainty of such parameter estimation, the bootstrap stands out as a simple but powerful technique. In this paper, we develop the bootstrap for dynamical systems and establish not only its consistency but also its second-order efficiency via a novel continuous Edgeworth expansion for dynamical systems. Moreover, we verify the theoretical results about the bootstrap using computer simulations.</font></p>              
 </details>
----
+---            
 
-<a href="https://arxiv.org/abs/2102.03509"><em>Robust normalizing flows using Bernstein-type polynomials.</em></a> 
+[**Robust normalizing flows using Bernstein-type polynomials**](https://arxiv.org/abs/2102.03509)     
 <font size = "3">with Sameera Ramasinghe, 15 pp (submitted)</font>  
 <details>
 <summary>Abstract</summary>      
@@ -33,15 +33,16 @@ Here is a list of completed research articles along with their their abstracts. 
 </details>
 ---     
 
-<a href="https://arxiv.org/pdf/2008.08726.pdf"><em>Expansions in the Central and the Local Limit Theorems for Dynamical Systems.</em></a> 
+[**Expansions in the Central and the Local Limit Theorems for Dynamical Systems**](https://arxiv.org/pdf/2008.08726.pdf)     
 <font size = "3">with Fran&ccedil;oise P&egrave;ne, Communications in Mathematical Physics 389, 273–347, 75 pp (2022) doi:10.1007/s00220-021-04255-z </font>   
 <details>
-<summary>Abstract</summary>                              
+<summary>Abstract</summary>      
+  
 <p align="justify"><font size = "2">We study higher order expansions both in the Berry-Ess&een estimate (Edgeworth expansions) and in the local limit theorems for Birkhoff sums of chaotic probability preserving dynamical systems. We establish general results under technical assumptions, discuss the verification of these assumptions and illustrate our results by different examples (subshifts of finite type, Young towers, Sinai billiards, random matrix products), including situations of unbounded observables with integrability order arbitrarily close to the optimal moment condition required in the i.i.d. setting.</font></p>
 </details>
 ---   
 
-<a href="https://arxiv.org/abs/1803.07667"><em>Edgeworth expansions for weakly dependent random variables.</em></a> 
+[**Edgeworth expansions for weakly dependent random variables**](https://arxiv.org/abs/1803.07667)        
 <font size = "3">with Carlangelo Liverani , Annales de l'Institut Henri Poincar&eacute;, 57(1) (2021) 469-505, 37 pp: doi:10.1214/20-AIHP1085 </font> 
 <details>
 <summary>Abstract</summary>     
@@ -50,7 +51,7 @@ Here is a list of completed research articles along with their their abstracts. 
 </details>
 ---
 
-<a href="https://arxiv.org/abs/1907.11655"><em>Higher order asymptotics for large deviations - Part II.</em></a> 
+[**Higher order asymptotics for large deviations - Part II**](https://arxiv.org/abs/1907.11655)        
 <font size = "3">with Pratima Hebbar, Stochastics and Dynamics, 21(5) (2021) 21 pp: doi:10.1142/S0219493721500258 </font>  
 <details>
 <summary>Abstract</summary>       
@@ -59,7 +60,7 @@ Here is a list of completed research articles along with their their abstracts. 
 </details>
 ---
 
-<a href="https://arxiv.org/abs/1811.06793"><em>Higher order asymptotics for large deviations - Part I.</em></a> 
+[**Higher order asymptotics for large deviations - Part I**](https://arxiv.org/abs/1811.06793)       
 <font size = "3">with Pratima Hebbar, Asymptotic Analysis, 121 (2021) 219–257, 39 pp: doi:10.3233/ASY-201602 </font> 
 <details>
 <summary>Abstract</summary>
