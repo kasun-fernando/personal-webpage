@@ -15,11 +15,8 @@ Apart from dynamicists and probabilists, I have formed research connections with
 
 Below, I briefly discuss some of my research interests thematically. The resulting publications can be found [here](https://kasun-fernando.github.io/personal-webpage/Publications/).
 
-### Invariants
-
-<img src="https://cosmolearning.org/images_dir/courses/618/profile-thumbnail-w300.jpg" align="right" hspace="50" vspace="25"/><br> 
-When studying physical systems with many degrees of freedom, it is impossible to keep track of the microscopic behaviour based on physical laws. Try writing equations of motion for about $10^{23}$ (about 1 mole of) gas particles and solving that system of equations!<br>      
-        
+### Invariants 
+When studying physical systems with many degrees of freedom, <img src="https://cosmolearning.org/images_dir/courses/618/profile-thumbnail-w300.jpg" align="right" hspace="50" vspace="15"/><br> it is impossible to keep track of the microscopic behaviour based on physical laws. Try writing equations of motion for about $10^{23}$ (about 1 mole of) gas particles and solving that system of equations!<br>      
         
 The study of _Statistical Physics_ is the study of how these particle-particle interactions describe systems on a macroscopic scale. One can calculate _observable properties_ of a system either as averages over _phase orbits_ (Ergodic Theory), or as averages over an _ensemble_ of systems, each of which is a copy of the system (Thermodynamics). In either case, _invariant measures_ of systems play a crucial role and showing the existence (and uniqueness) of them is a problem of importance. In fact, the _ergodic invariant measures_ can be used to describe the statistics of a system completely. 
 
