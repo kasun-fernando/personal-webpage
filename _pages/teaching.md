@@ -14,7 +14,7 @@ For more than a decade I have taught mathematics in various capacities to a dive
 
 Below, I have summarized my experience related to teaching. 
 
-### Instructor Training
+## Instructor Training
 - 2021 - Developing Curriculum, Blended Learning, Flipped Classroom - Linkedin Learning courses on modern teaching techniques 
 - 2021 - Core Strategies for Teaching in Higher Ed, Linkedin Learning course by Prof. Karl Kapp 
 - 2020 - Summer Camp on Online Teaching, Teaching and Learning Collaboration, University of Toronto
@@ -22,18 +22,18 @@ Below, I have summarized my experience related to teaching.
 - 2018 - Course design 101 - Teaching and Learning Collaboration, University of Toronto
 - 2014 - Teaching Seminar, Department of Mathematics, University of Maryland
 
-### Teaching Experience
+## Teaching Experience
 
-#### **Minicourses** (designed and taught)
+### **Minicourses** (designed and taught)
 - 2021 - Dynamical Systems: Stability, Bifurcations & Applications, International Conference on Multidisciplinary Approaches in Science, University of Colombo
 - 2019 - Asymptotics for Limit Theorems in Dynamical Systems, University of Toronto
 - 2019 - Introduction to Dynamical Systems, University of Colombo      
 
-#### **Instructor** at the Math Outreach Office, University of Toronto
+### **Instructor** at the Math Outreach Office, University of Toronto
 - Fall 2021 - Math Contest Preparation Club (online)     
 - Summer 2021 - Canada Math Camp 2021 (online)    
 
-#### **Instructor** at the University of Toronto 
+### **Instructor** at the University of Toronto 
 
 - Winter 2021 - MAT232 Calculus of Several Variables (online)     
 - Fall 2020 - [STA348 Introduction to Stochastic Processes](https://q.utoronto.ca/courses/174782) (online)      
@@ -42,13 +42,13 @@ Below, I have summarized my experience related to teaching.
 - Winter 2019 - MAT135 Calculus    
 - Fall 2018 - MAT135 Calculus    
 
-#### **Instructor** at Sri Lanka Olympiad Mathematics Foundation 
+### **Instructor** at Sri Lanka Olympiad Mathematics Foundation 
 - 2009 to 2014 - Selecting, training and facilitating the Sri Lankan IMO and IMC teams
 
-#### **Teaching Assistant** at the Scuola Normale Superiore di Pisa 
+### **Teaching Assistant** at the Scuola Normale Superiore di Pisa 
 - Fall 2021 - Introduction to Dynamical Systems I 
 
-#### **Teaching Assistant** at the University of Maryland 
+### **Teaching Assistant** at the University of Maryland 
 - Spring 2018 - STAT601 Probability II, STAT410 Intro to Probability 
 - Fall 2017 - MATH670 ODE I, MATH403 Introduction to Abstract Algebra 
 - Fall 2016 - MATH220 Elememtary Calculus 
@@ -58,6 +58,6 @@ Below, I have summarized my experience related to teaching.
 - Spring 2015 - MATH241 Calculus III
 - Fall 2014 - MATH220 Elememtary Calculus
 
-#### **Teaching Assistant** at the University of Colombo 
+### **Teaching Assistant** at the University of Colombo 
 - 2014 - PM4003 Measure Theory, PM3052 Real Analysis I, PM3054 Topology I, PM2001 Calculus II
 
