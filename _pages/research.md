@@ -16,7 +16,7 @@ Apart from dynamicists and probabilists, I have formed research connections with
 Below, I briefly discuss some of my research interests thematically. The resulting publications can be found [here](https://kasun-fernando.github.io/personal-webpage/Publications/).
 
 ## Invariants 
-When studying physical systems with many degrees of freedom, <img src="https://cosmolearning.org/images_dir/courses/618/profile-thumbnail-w300.jpg" align="right" hspace="75" vspace="20"/><br> it is impossible to keep track of the microscopic behaviour based on physical laws. Try writing equations of motion for about $10^{23}$ (about 1 mole of) gas particles and solving that system of equations!<br>      
+When studying physical systems with many degrees of freedom, <img src="https://cosmolearning.org/images_dir/courses/618/profile-thumbnail-w300.jpg" align="right" hspace="150" vspace="50"/><br> it is impossible to keep track of the microscopic behaviour based on physical laws. Try writing equations of motion for about $10^{23}$ (about 1 mole of) gas particles and solving that system of equations!<br>      
         
 The study of _Statistical Physics_ is the study of how these particle-particle interactions describe systems on a macroscopic scale. One can calculate _observable properties_ of a system either as averages over _phase trajectories_ (Ergodic Theory), or as averages over an _ensemble_ of systems, each of which is a copy of the system (Thermodynamics). In either case, **invariant measures** of systems play a crucial role and showing the existence (and uniqueness) of them is a problem of importance. In fact, the **ergodic invariant measures** can be used to describe the statistics of a system completely. 
 
@@ -32,8 +32,7 @@ With [Dmitry Dolgopyat](https://www.math.umd.edu/~dolgop/), I extended the exist
 As an extension of one of my previous projects with Caralngelo Liverani, [Fran&ccedil;oise P&egrave;ne](http://lmba.math.univ-brest.fr/perso/francoise.pene/) and I introduced a general theory of Edgeworth expansions and **asymptotics** in the Mixing Local Limit Theorems for _weakly dependent_ (arising as observations from chaotic dynamical systems or Markov processes) possibly unbounded random variables. The hyperbolic systems that we discuss like Sinai billiards and piecewise expanding maps are natural models in many applications: billiard models in optics, acoustics and classical mechanics, and expanding maps in random number generators, biological and medical models to name a few. There is an on-going project with Fran&ccedil;oise P&egrave;ne on generalizing this theory further to include systems that exhibit _intermittent_ behaviour. 
 
 <img src="https://cdn-thumbs.imagevenue.com/2b/d9/fd/ME15BEQ2_t.png" align="center" 
-     height="200" hspace="100" vspace="20"/><img src="https://cdn-thumbs.imagevenue.com/5a/85/f4/ME15BEQ1_t.png" align="center" 
-     height="225" hspace="100" vspace="20"/>        
+     height="200" hspace="350" vspace="20"/>      
 
 With Pratima Hebbar, we look at the **asymptotics** of Large Deviations which describe the extremal behaviour of orbits. In particular, this theory leads to the precise description of the long-term behaviour of fundamental solutions parabolic PDEs that model Branching Diffusion Processes. 
 
@@ -42,11 +41,17 @@ Having a precise description of asymptotics of the statistical behaviour alone i
 
 Even though there has been significant progress in applying tools from inferential statistics to deterministic dynamics, _the bootstrap_, a versatile tool that achieves higher-order estimation accuracy than the normal approximation, had not been implemented until my work with [Nan Zou](https://sites.google.com/site/nzoupersonal/home). Our bootstrap enables one to evaluate the randomness of **estimates** by constructing 95% confidence intervals for important dynamical quantities like the top _Lyapunov exponent_ and _metric entropy_. Currently, we are working on coming up with better **estimates** for _spectral densities_ in dynamical systems. 
 
+<img src="https://miro.medium.com/max/2648/1*SgeDm_wb2QNSF0CSYVmhuw.jpeg" align="center" 
+     height="200" hspace="250" vspace="20"/>
+
+
 In the recent years, with the proliferation of machine learning research, modeling and prediction of real world phenomena have progressed to the next level. The problem of computing **estimates** for an unknown probability distribution using sample data is crucial for applications; for example, in estimating invariant densities of dynamical systems. _Normalizing flows_ (NFs) in machine learning is a supervised learning procedure that determines the probability distribution of sample data by performing a maximum likelihood optimization. With Sameera Ramasinghe, I was able to introduce a framework to construct NFs that demonstrate higher robustness against initial errors. This is the first time the robustness of NFs is discussed in the literature even though NFs are susceptible of numerical instabilities in applications. 
 
 <img src="https://cdn-thumbs.imagevenue.com/0f/c8/7d/ME15BEQ6_t.png" align="center" height="225" hspace="300" vspace="50"/>
 
 <!--
+<img src="https://cdn-thumbs.imagevenue.com/5a/85/f4/ME15BEQ1_t.png" align="center" 
+     height="225" hspace="100" vspace="20"/>  
 <img src="https://cdn-thumbs.imagevenue.com/f5/31/c3/ME15BEQ7_t.png" align="left" height="120" hspace="20" vspace="50"/>
 ---
 **Failure of Edegworth expansions in the discrete iid setting**           
