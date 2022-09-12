@@ -31,9 +31,9 @@ With [Dmitry Dolgopyat](https://www.math.umd.edu/~dolgop/), I extended the exist
 
 As an extension of one of my previous projects with Caralngelo Liverani, [Fran&ccedil;oise P&egrave;ne](http://lmba.math.univ-brest.fr/perso/francoise.pene/) and I introduced a general theory of Edgeworth expansions and **asymptotics** in the Mixing Local Limit Theorems for _weakly dependent_ (arising as observations from chaotic dynamical systems or Markov processes) possibly unbounded random variables. The hyperbolic systems that we discuss like Sinai billiards and piecewise expanding maps are natural models in many applications: billiard models in optics, acoustics and classical mechanics, and expanding maps in random number generators, biological and medical models to name a few. There is an on-going project with Fran&ccedil;oise P&egrave;ne on generalizing this theory further to include systems that exhibit _intermittent_ behaviour. 
 
-<img src="https://cdn-thumbs.imagevenue.com/2b/d9/fd/ME15BEQ2_t.png" align="left" 
-     height="200" hspace="100" vspace="100"/><img src="https://cdn-thumbs.imagevenue.com/5a/85/f4/ME15BEQ1_t.png" align="right" 
-     height="225" hspace="100" vspace="100"/><br><br><br><br><br><br><br><br><br>         
+<img src="https://cdn-thumbs.imagevenue.com/2b/d9/fd/ME15BEQ2_t.png" align="center" 
+     height="200" hspace="100" vspace="20"/><img src="https://cdn-thumbs.imagevenue.com/5a/85/f4/ME15BEQ1_t.png" align="center" 
+     height="225" hspace="100" vspace="20"/>        
 
 With Pratima Hebbar, we look at the **asymptotics** of Large Deviations which describe the extremal behaviour of orbits. In particular, this theory leads to the precise description of the long-term behaviour of fundamental solutions parabolic PDEs that model Branching Diffusion Processes. 
 
