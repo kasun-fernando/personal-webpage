@@ -46,7 +46,7 @@ Even though there has been significant progress in the application of tools from
 
 In recent years, with the proliferation of machine learning research, modeling and prediction of real-world phenomena have progressed to the next level. The problem of **computing estimates** for an unknown probability distribution using sample data is crucial for applications; for example, **computing estimates** of invariant densities of dynamical systems. In machine learning, _Normalizing flows_ (NFs) are a supervised learning procedure that determines the probability distribution of sample data by performing a maximum likelihood optimization. With [Sameera Ramasinghe](https://www.linkedin.com/in/sameeraramasinghe/), I introduced a framework to construct NFs that demonstrate higher robustness against initial errors. Even though NFs are susceptible to numerical instabilities, this is the first time robustness of NFs is investigated in the literature. 
 
-<img src="https://cdn-thumbs.imagevenue.com/0f/c8/7d/ME15BEQ6_t.png" align="center" height="225" hspace="300" vspace="50" title="From top to bottom: ground truth, NF prediction and predicted density"/>
+<img src="https://cdn-thumbs.imagevenue.com/0f/c8/7d/ME15BEQ6_t.png" align="center" height="225" hspace="300" vspace="20" title="From top to bottom: ground truth, NF prediction and predicted density"/>
 
 <!--
 <img src="https://cdn-thumbs.imagevenue.com/5a/85/f4/ME15BEQ1_t.png" align="center" 
