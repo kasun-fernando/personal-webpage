@@ -8,7 +8,8 @@ Apart from research, I am passionate about disseminating mathematical knowledge 
 - Nurturing the creativity and mathematical talent of students,
 - Creating an inclusive classroom environment for all students,
 - Fostering independence and critical thinking capabilities, and 
-- Motivating and guiding students to realise their goals.    
+- Motivating and guiding students to realise their goals. 
+   
 For more than a decade, I have taught mathematics in various capacities to a diverse group of students, and I am committed to being an effective and engaging teacher for students from all backgrounds, and below, I have summarized my experience related to teaching.
 
 ## Instructor Training
