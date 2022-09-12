@@ -18,7 +18,7 @@ Below, I briefly discuss some of my research interests thematically. The resulti
 ## Invariants 
 When studying physical systems with many degrees of freedom, it is impossible to keep track of the microscopic behaviour based on physical laws. Try writing equations of motion for about $10^{23}$ gas particles (about 1 mole) and solving that system of equations!
 
-<img src="https://cosmolearning.org/images_dir/courses/618/profile-thumbnail-w300.jpg" height="225" align="center" hspace="250" vspace="20" title="Particle movement in a closed system"/>
+<img src="https://cosmolearning.org/images_dir/courses/618/profile-thumbnail-w300.jpg" height="225" align="center" hspace="250" vspace="20" title="A closed many particle system"/>
         
 The study of _Statistical Physics_ is the study of how these particle-particle interactions describe systems on a macroscopic scale. One can calculate _observable properties_ of a system either as averages over _phase trajectories_ (Ergodic Theory), or as averages over an _ensemble_ of systems, each of which is a copy of the system (Thermodynamics). In either case, **invariant measures** of systems play a crucial role and showing the existence (and uniqueness) of them is a problem of importance. In fact, the **ergodic invariant measures** can be used to describe the statistics of a system completely. 
 
