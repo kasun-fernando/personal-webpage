@@ -15,7 +15,7 @@ Apart from dynamicists and probabilists, I have formed research connections with
 
 Below, I briefly discuss some of my research interests thematically. The resulting publications can be found [here](https://kasun-fernando.github.io/personal-webpage/Publications/).
 
-### Invariants 
+## Invariants 
 When studying physical systems with many degrees of freedom, <img src="https://cosmolearning.org/images_dir/courses/618/profile-thumbnail-w300.jpg" align="right" hspace="75" vspace="20"/><br> it is impossible to keep track of the microscopic behaviour based on physical laws. Try writing equations of motion for about $10^{23}$ (about 1 mole of) gas particles and solving that system of equations!<br>      
         
 The study of _Statistical Physics_ is the study of how these particle-particle interactions describe systems on a macroscopic scale. One can calculate _observable properties_ of a system either as averages over _phase trajectories_ (Ergodic Theory), or as averages over an _ensemble_ of systems, each of which is a copy of the system (Thermodynamics). In either case, **invariant measures** of systems play a crucial role and showing the existence (and uniqueness) of them is a problem of importance. In fact, the **ergodic invariant measures** can be used to describe the statistics of a system completely. 
@@ -24,7 +24,7 @@ Many systems have the extra layer of difficulty of the presence of interacting c
 
 Some systems are deterministic flows with discontinuities at random times at which they make random jumps. Such _Piece-wise Deterministic Markov Processes_ have a wide range of applications to science and engineering. I am interested in studying the existence of **invariant measures** in such systems. Drawing parallels with some of my previous work, [Pratima Hebbar](https://sites.google.com/view/pratimahebbar/home) and I expect that statistical properties of switching systems can be studied.
 
-### Asymptotics
+## Asymptotics
 
 Ergodic theory asserts that most of the realisations of an ergodic system distributes according to an ergodic invariant measure. This has far reaching consequences for practical applications that range from celestial mechanics to molecular dynamics and drug design. However, for these finite-time applications, precise asymptotics of limit laws describing the system are required. 
 
@@ -32,7 +32,7 @@ With [Dmitry Dolgopyat](https://www.math.umd.edu/~dolgop/), I extended the exist
 
 <img src="https://github.com/kasun-fernando/personal-webpage/tree/master/images/sinai.png" align="left" hspace="75" vspace="20"/> <img src="https://github.com/kasun-fernando/personal-webpage/tree/master/images/exp.png" align="right" hspace="75" vspace="20"/>
 
-### Estimates
+## Estimates
 
 
 <!--
