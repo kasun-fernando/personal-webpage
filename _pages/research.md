@@ -28,9 +28,14 @@ Some systems are deterministic flows with discontinuities at random times at whi
 
 Ergodic theory asserts that most of the realisations of an ergodic system distributes according to an ergodic invariant measure. This has far reaching consequences for practical applications that range from celestial mechanics to molecular dynamics and drug design. However, for these finite-time applications, precise asymptotics of limit laws describing the system are required. 
 
-With [Dmitry Dolgopyat](https://www.math.umd.edu/~dolgop/), I extended the existing theory of _Edgeworth expansions_ (higher order asymptotics of the Central Limit Theorem) for iid random variables to include typical discrete random variables and provided a precise description of the failure of such expansions. Also, we introduced a general theory of Edgeworth expansions for _weakly dependent_ (arising as observations from chaotic dynamical systems or Markov processes) possibly unbounded random variables with [Fran&ccedil;oise P&egrave;ne](http://lmba.math.univ-brest.fr/perso/francoise.pene/) as an extension of one of my previous projects with Caralngelo Liverani. The hyperbolic systems that we discuss like Sinai billiards and piecewise expanding maps are natural models in many applications: billiard models in optics, acoustics and classical mechanics, and expanding maps in random number generators, biological and medical models to name a few. There is an on-going project with Fran&ccedil;oise P&egrave;ne on generalizing the theory to include systems that exhibit _intermittent_ behaviour. 
+With [Dmitry Dolgopyat](https://www.math.umd.edu/~dolgop/), I extended the existing theory of _Edgeworth expansions_ (higher order asymptotics of the Central Limit Theorem) for iid random variables to include typical discrete random variables and provided a precise description of the failure of such expansions.     
 
-<img src="https://github.com/kasun-fernando/personal-webpage/tree/master/images/sinai.png" align="left" hspace="75" vspace="20"/> <img src="https://github.com/kasun-fernando/personal-webpage/tree/master/images/exp.png" align="right" hspace="75" vspace="20"/>
+As an extension of one of my previous projects with Caralngelo Liverani, [Fran&ccedil;oise P&egrave;ne](http://lmba.math.univ-brest.fr/perso/francoise.pene/) and I introduced a general theory of Edgeworth expansions for _weakly dependent_ (arising as observations from chaotic dynamical systems or Markov processes) possibly unbounded random variables. The hyperbolic systems that we discuss like Sinai billiards and piecewise expanding maps are natural models in many applications: billiard models in optics, acoustics and classical mechanics, and expanding maps in random number generators, biological and medical models to name a few. There is an on-going project with Fran&ccedil;oise P&egrave;ne on generalizing this theory further to include systems that exhibit _intermittent_ behaviour. 
+
+<img src="images/sinai.png" align="left" width="200" 
+     height="200" hspace="100" vspace="20"/><img src="images/exp.png" align="right"  width="225" 
+     height="225" hspace="100" vspace="20"/><br><br>         
+     
 
 ## Estimates
 
