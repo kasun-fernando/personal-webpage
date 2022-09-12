@@ -25,21 +25,26 @@ Many systems have the extra layer of difficulty of the presence of interacting c
 Some systems are deterministic flows with discontinuities at random times at which they make random jumps. Such _Piece-wise Deterministic Markov Processes_ have a wide range of applications to science and engineering. I am interested in studying the existence of **invariant measures** in such systems. Drawing parallels with some of my previous work, [Pratima Hebbar](https://sites.google.com/view/pratimahebbar/home) and I expect that statistical properties of switching systems can be studied.
 
 ## Asymptotics
-
 Ergodic theory asserts that most of the realisations of an ergodic system distributes according to an ergodic invariant measure. This has far reaching consequences for practical applications that range from celestial mechanics to molecular dynamics and drug design. However, for these finite-time applications, **precise asymptotics** of probabilitistic limit laws describing the system are required. 
 
 With [Dmitry Dolgopyat](https://www.math.umd.edu/~dolgop/), I extended the existing theory of _Edgeworth expansions_ (**higher order asymptotics** of the Central Limit Theorem) for iid random variables to include _typical_ discrete random variables and provided a precise description of the failure of such expansions. The next natural question is whether it is possible to describe the error in the CLT when we pick a particular discrete random variable instead of describing typical errors. This is an on-going project.
 
 As an extension of one of my previous projects with Caralngelo Liverani, [Fran&ccedil;oise P&egrave;ne](http://lmba.math.univ-brest.fr/perso/francoise.pene/) and I introduced a general theory of Edgeworth expansions and **asymptotics** in the Mixing Local Limit Theorems for _weakly dependent_ (arising as observations from chaotic dynamical systems or Markov processes) possibly unbounded random variables. The hyperbolic systems that we discuss like Sinai billiards and piecewise expanding maps are natural models in many applications: billiard models in optics, acoustics and classical mechanics, and expanding maps in random number generators, biological and medical models to name a few. There is an on-going project with Fran&ccedil;oise P&egrave;ne on generalizing this theory further to include systems that exhibit _intermittent_ behaviour. 
 
-<img src="images/sinai.png" align="left" width="200" 
-     height="200" hspace="100" vspace="20"/><img src="images/exp.png" align="right"  width="225" 
+<img src="images/sinai.png" align="left" 
+     height="200" hspace="100" vspace="20"/><img src="images/exp.png" align="right" 
      height="225" hspace="100" vspace="20"/><br><br><br><br><br><br><br><br><br>         
 
 With Pratima Hebbar, we look at the **asymptotics** of Large Deviations which describe the extremal behaviour of orbits. In particualr, this theory leads to the precise description of the long-term behaviour of fundamental solutions parabolic PDEs that model Branching Diffusion Processes. 
 
 ## Estimates
+Having a precise description of asymptotics of the statistical behaviour alone is not sufficient for applications. Finding **precise estimates** of parameters in systems arise naturally in many areas, including machine learning, physics, econometrics, and engineering. Moreover, one should be able to apply tools from statistics to limited dynamically generated data and obtain meaningful inferences. 
 
+Even though there has been significant progress in applying tools from inferential statistics to deterministic dynamics, _the bootstrap_, a versatile tool that achieves higher-order estimation accuracy than the normal approximation, had not been implemented until my work with [Nan Zou](https://sites.google.com/site/nzoupersonal/home). Our bootstrap enables one to evaluate the randomness of **estimates** by constructing 95% confidence intervals for important dynamical quantities like the top _Lyapunov exponent_ and _metric entropy_. Currently, we are working on coming up with better **estimates** for _spectral densities_ in dynamical systems. 
+
+In the recent years, with the proliferation of machine learning research, modeling and prediction of real world phenomena have progressed to the next level. The problem of computing **estimates** for an unknown probability distribution using sample data is crucial for applications; for example, in estimating invariant densities of dynamical systems. _Normalizing flows_ (NFs) in machine learning is a supervised learning procedure that determines the probability distribution of sample data by performing a maximum likelihood optimization. With Sameera Ramasinghe, I was able to introduce a framework to construct NFs that demonstrate higher robustness against initial errors. This is the first time the robustness of NFs is discussed in the literature even though NFs are susceptible of numerical instabilities in applications. 
+
+<img src="images/nflow.png" align="left" height="150" hspace="20" vspace="50"/> <img src="images/toy_data.png" align="right" height="225" hspace="20" vspace="10"/>
 
 <!--
 ---
