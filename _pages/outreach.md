@@ -29,7 +29,7 @@ The SLOMF and its flagship competition SLMO have contributed substantially to po
 
 After moving abroad, I have continued my outreach work in Sri Lanka through alternative means. In particular, I organized undergraduate minicourses in Sri Lanka, guided undergraduates in their Ph.D. application process, and recently, started using YouTube videos in Sinhalese to introduce mathematical ideas and their applications to a general audience in Sri Lanka.  
 
-### Youtube
+### Youtube Podcast Series for the Sri Lankan Audience
 
 Social media is an effective tool for outreach activities. Since I am passionate about popularizing higher mathematics and improving mathematics education in Sri Lanka, I welcomed the opportunity to collaborate with two Sri Lankan YouTube content creators Fadil Iqbal of [IQ Labs](https://www.youtube.com/c/IQLabs) and Ashan Ariyawansa of [NC Astronomy](https://www.youtube.com/c/NCAstronomy/). 
 
