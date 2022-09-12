@@ -7,6 +7,7 @@ Broadly, the prime focus of my research is <b>the interplay among probability th
 - <b>statistical properties of dynamical systems and Markov processes</b>,
 - <b>inferential statistics in the context of dynamical systems</b>, and 
 - <b>higher order asymptotics for limit theorems</b>   
+
 using spectral theory and a combination of techniques from classical probability theory, stochastic analysis, statistics, and dynamical systems. Recently, I have started looking at      
 - <b>applications of machine learning</b> to problems related to my main research interests. 
 
