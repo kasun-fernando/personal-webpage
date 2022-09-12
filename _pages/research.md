@@ -35,7 +35,7 @@ As an extension of one of my previous projects with Caralngelo Liverani, [Fran&c
      height="200" hspace="100" vspace="20"/><img src="images/exp.png" align="right" 
      height="225" hspace="100" vspace="20"/><br><br><br><br><br><br><br><br><br>         
 
-With Pratima Hebbar, we look at the **asymptotics** of Large Deviations which describe the extremal behaviour of orbits. In particualr, this theory leads to the precise description of the long-term behaviour of fundamental solutions parabolic PDEs that model Branching Diffusion Processes. 
+With Pratima Hebbar, we look at the **asymptotics** of Large Deviations which describe the extremal behaviour of orbits. In particular, this theory leads to the precise description of the long-term behaviour of fundamental solutions parabolic PDEs that model Branching Diffusion Processes. 
 
 ## Estimates
 Having a precise description of asymptotics of the statistical behaviour alone is not sufficient for applications. Finding **precise estimates** of parameters in systems arise naturally in many areas, including machine learning, physics, econometrics, and engineering. Moreover, one should be able to apply tools from statistics to limited dynamically generated data and obtain meaningful inferences. 
