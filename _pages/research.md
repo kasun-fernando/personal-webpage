@@ -26,16 +26,17 @@ Some systems are deterministic flows with discontinuities at random times at whi
 
 ## Asymptotics
 
-Ergodic theory asserts that most of the realisations of an ergodic system distributes according to an ergodic invariant measure. This has far reaching consequences for practical applications that range from celestial mechanics to molecular dynamics and drug design. However, for these finite-time applications, precise asymptotics of limit laws describing the system are required. 
+Ergodic theory asserts that most of the realisations of an ergodic system distributes according to an ergodic invariant measure. This has far reaching consequences for practical applications that range from celestial mechanics to molecular dynamics and drug design. However, for these finite-time applications, **precise asymptotics** of probabilitistic limit laws describing the system are required. 
 
-With [Dmitry Dolgopyat](https://www.math.umd.edu/~dolgop/), I extended the existing theory of _Edgeworth expansions_ (higher order asymptotics of the Central Limit Theorem) for iid random variables to include typical discrete random variables and provided a precise description of the failure of such expansions.     
+With [Dmitry Dolgopyat](https://www.math.umd.edu/~dolgop/), I extended the existing theory of _Edgeworth expansions_ (**higher order asymptotics** of the Central Limit Theorem) for iid random variables to include _typical_ discrete random variables and provided a precise description of the failure of such expansions. The next natural question is whether it is possible to describe the error in the CLT when we pick a particular discrete random variable instead of describing typical errors. This is an on-going project.
 
-As an extension of one of my previous projects with Caralngelo Liverani, [Fran&ccedil;oise P&egrave;ne](http://lmba.math.univ-brest.fr/perso/francoise.pene/) and I introduced a general theory of Edgeworth expansions for _weakly dependent_ (arising as observations from chaotic dynamical systems or Markov processes) possibly unbounded random variables. The hyperbolic systems that we discuss like Sinai billiards and piecewise expanding maps are natural models in many applications: billiard models in optics, acoustics and classical mechanics, and expanding maps in random number generators, biological and medical models to name a few. There is an on-going project with Fran&ccedil;oise P&egrave;ne on generalizing this theory further to include systems that exhibit _intermittent_ behaviour. 
+As an extension of one of my previous projects with Caralngelo Liverani, [Fran&ccedil;oise P&egrave;ne](http://lmba.math.univ-brest.fr/perso/francoise.pene/) and I introduced a general theory of Edgeworth expansions and **asymptotics** in the Mixing Local Limit Theorems for _weakly dependent_ (arising as observations from chaotic dynamical systems or Markov processes) possibly unbounded random variables. The hyperbolic systems that we discuss like Sinai billiards and piecewise expanding maps are natural models in many applications: billiard models in optics, acoustics and classical mechanics, and expanding maps in random number generators, biological and medical models to name a few. There is an on-going project with Fran&ccedil;oise P&egrave;ne on generalizing this theory further to include systems that exhibit _intermittent_ behaviour. 
 
 <img src="images/sinai.png" align="left" width="200" 
      height="200" hspace="100" vspace="20"/><img src="images/exp.png" align="right"  width="225" 
-     height="225" hspace="100" vspace="20"/><br><br>         
-     
+     height="225" hspace="100" vspace="20"/><br><br><br><br><br><br><br><br><br>         
+
+With Pratima Hebbar, we look at the **asymptotics** of Large Deviations which describe the extremal behaviour of orbits. In particualr, this theory leads to the precise description of the long-term behaviour of fundamental solutions parabolic PDEs that model Branching Diffusion Processes. 
 
 ## Estimates
 
