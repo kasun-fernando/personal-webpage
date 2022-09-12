@@ -3,7 +3,7 @@ layout: postmod
 title: Publications             
 permalink: /Publications/          
 ---
-Here is a list of completed research articles along with their their abstracts. Don't hesitate to write to me if you don't have access to the published articles.<br>   
+Here is a list of my research articles along with their abstracts.<br>   
 
 ***         
 [**An error term in the Central Limit Theorem for sums of discrete random variables**](otherfiles/EdgeManyAtoms.pdf)
