@@ -16,7 +16,7 @@ Apart from dynamicists and probabilists, I have formed research connections with
 Below, I briefly discuss some of my research interests thematically. The resulting publications can be found [here](https://kasun-fernando.github.io/personal-webpage/Publications/).
 
 ## Invariants 
-When studying physical systems with many degrees of freedom, it is impossible to keep track of the microscopic behaviour based on physical laws. Try writing equations of motion for about $10^{23}$ (about 1 mole of) gas particles and solving that system of equations!
+When studying physical systems with many degrees of freedom, it is impossible to keep track of the microscopic behaviour based on physical laws. Try writing equations of motion for about $10^{23}$ gas particles (about 1 mole) and solving that system of equations!
 
 <img src="https://cosmolearning.org/images_dir/courses/618/profile-thumbnail-w300.jpg" height="225" align="center" hspace="250" vspace="20"/>
         
