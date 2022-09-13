@@ -41,8 +41,8 @@ As an extension of one of my previous projects with Caralngelo Liverani, [Fran&c
 
 With Pratima Hebbar, we look at the **higher-order asymptotics** of Large Deviations that describe the extremal behaviour of orbits. In particular, this theory leads to the exact description of the **asymptotics** of fundamental solutions of parabolic PDEs that model Branching Diffusion Processes.   
 
-## Precise Estimates
-Having exact asymptotics of the statistical behaviour alone is insufficient for applications. The problem of finding more accurate and more precise **estimates** of parameters in systems appears naturally in many areas, including machine learning, physics, econometrics, and engineering. Moreover, one should be able to apply tools from statistics to limited dynamically generated data and obtain meaningful inferences.   
+## Computing Precise Estimates
+Having exact asymptotics of the statistical behaviour alone is insufficient for applications. The problem of finding more accurate and more **precise estimates** of parameters in systems appears naturally in many areas, including machine learning, physics, econometrics, and engineering. Moreover, one should be able to apply tools from statistics to limited dynamically generated data and obtain meaningful inferences.   
 
 Even though there has been significant progress in the application of tools from inferential statistics to deterministic dynamics, _the bootstrap_, a versatile tool that achieves higher-order estimation accuracy than the normal approximation, had not been implemented until my work with [Nan Zou](https://sites.google.com/site/nzoupersonal/home). Our bootstrap enables one to evaluate the **randomness of estimates** of important dynamical quantities like the top _Lyapunov exponent_ and _metric entropy_ by constructing their 95% confidence intervals. Currently, we are working on coming up with **better estimates** for _spectral densities_ of dynamical systems. 
 
