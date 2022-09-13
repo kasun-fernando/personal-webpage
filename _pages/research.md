@@ -13,12 +13,12 @@ using spectral theory and a combination of techniques from classical probability
 
 So far, I have formed research connections not only with dynamicists and probabilists but also with machine learning researchers and statisticians, and I am actively searching for interdisciplinary research opportunities.
 
-Below, I briefly discuss some of my research interests under three themes: **Invariants, Asymtotics** and **Estimates**. The resulting publications are listed [here](https://kasun-fernando.github.io/personal-webpage/Publications/).
+Below, I briefly discuss some of my research interests under three themes. The resulting publications are listed [here](https://kasun-fernando.github.io/personal-webpage/Publications/).
 
-## Invariants 
+## Invariants and Universality
 When studying physical systems with many degrees of freedom, it is impossible to keep track of microscopic behaviour based on physical laws. Try writing equations of motion for about $6 \times 10^{23}$ gas particles (about 1 mole) and solving that system of equations!
 
-<img src="https://cosmolearning.org/images_dir/courses/618/profile-thumbnail-w300.jpg" height="225" align="center" hspace="250" vspace="20" title="A closed many particle system"/>
+<img src="https://cosmolearning.org/images_dir/courses/618/profile-thumbnail-w300.jpg" height="250" align="center" hspace="250" vspace="20" title="A closed many particle system"/>
         
 _Statistical Physics_ is the study of how these particle-particle interactions describe systems on a macroscopic scale. One can calculate _observable properties_ of a system either as averages over _phase trajectories_ (Ergodic Theory) or as averages over an _ensemble_ of systems, each of which is a copy of the system (Thermodynamics). In either case, **invariant measures** of systems play a crucial role, and showing their existence (and uniqueness) of them is a problem of importance. In fact, the **ergodic invariant measures** can be used to describe the statistics of a system entirely.  
 
@@ -26,10 +26,14 @@ Many systems have the extra layer of difficulty of the presence of interacting c
 
 Some systems are deterministic flows with discontinuities at random times at which they make random jumps. Such _Piecewise Deterministic Markov Processes_ have numerous applications to science and engineering. I am interested in studying the existence of **invariant measures** in such systems. Drawing parallels with some of my previous work, [Pratima Hebbar](https://sites.google.com/view/pratimahebbar/home) and I expect that statistical properties of switching systems can be studied.
 
-## Asymptotics
-Ergodic Theory asserts that most of the realizations of an ergodic system distribute according to an ergodic invariant measure. This fact has far-reaching consequences for practical applications that range from celestial mechanics to molecular dynamics and drug design. However, for these finite-time applications, **precise asymptotics** of probabilistic limit laws describing the system are required. 
+The Central Limit Theorem, a widely studied statistical property of systems, is an example of **universality** where, due to aggregation of microscopic information, at the macroscopic scale the averaged asymptotic behaviour of the system follows a bell curve independent of the underlying mechanism of information generation. **Universality** has deep consequences for applications in very applied fields like Biology and Economics as well as more theoretical fields like Number Theory. With [Tanja Schindler](https://sites.google.com/a/sns.it/tschindler/), we proved the Central Limit Theorem for the real part, imaginary part and the absolute value of the Riemann-zeta function smapled over a class of dynamical systems on $\mathbb{R}$ with _heavy-tailed_ invariant measures. This result has potential Number Theoretic applications because it extends previous results on _sampling the Lindelof hypothesis_.
 
-With [Dmitry Dolgopyat](https://www.math.umd.edu/~dolgop/), I extended the existing theory of _Edgeworth expansions_ (**higher order asymptotics** of the Central Limit Theorem) for iid random variables to include _typical_ discrete random variables and provided precise descriptions of the failure of such expansions. The next natural question is whether it is possible to describe the error in the Central Limit Theorem when we pick a particular discrete random variable instead of describing typical errors. This is an ongoing project.
+<img src="https://www.alanzucconi.com/wp-content/uploads/2015/05/galton-board.jpg" height="250" align="center" hspace="250" vspace="20" title="Galton board illustrating the Central Limit Theorem"/>
+
+## Exact Asymptotics
+Ergodic Theory asserts that most of the realizations of an ergodic system distribute according to an ergodic invariant measure. This fact has far-reaching consequences for practical applications that range from celestial mechanics to molecular dynamics and drug design. However, for these finite-time applications, **exact asymptotics** of universality (including probabilistic _limit laws_) describing systems are required. 
+
+With [Dmitry Dolgopyat](https://www.math.umd.edu/~dolgop/), I extended the existing theory of _Edgeworth expansions_ (**higher-order asymptotics** of the Central Limit Theorem) for independent and identically distributed random variables to encompass _typical_ discrete random variables and provided precise descriptions of the failure of such expansions. The next natural question is whether it is possible to describe the error in the Central Limit Theorem when we pick a particular discrete random variable instead of describing typical errors. This is an ongoing project.
 
 <img src="https://cdn-thumbs.imagevenue.com/2b/d9/fd/ME15BEQ2_t.png" height="225" align="center" hspace="50" vspace="20" title="A Sinai billiard trajectory"/>
 
@@ -37,18 +41,19 @@ As an extension of one of my previous projects with Caralngelo Liverani, [Fran&c
 
 With Pratima Hebbar, we look at the **higher order asymptotics** of Large Deviations that describe the extremal behaviour of orbits. In particular, this theory leads to the exact description of the **asymptotics** of fundamental solutions of parabolic PDEs that model Branching Diffusion Processes.   
 
-## Estimates
-Having precise descriptions of asymptotics of the statistical behaviour alone is insufficient for applications. The problem of finding **more accurate estimates** of parameters in systems appears naturally in many areas, including machine learning, physics, econometrics, and engineering. Moreover, one should be able to apply tools from statistics to limited dynamically generated data and obtain meaningful inferences.   
+## Precise Estimates
+Having exact asymptotics of the statistical behaviour alone is insufficient for applications. The problem of finding more accurate and more precise **estimates** of parameters in systems appears naturally in many areas, including machine learning, physics, econometrics, and engineering. Moreover, one should be able to apply tools from statistics to limited dynamically generated data and obtain meaningful inferences.   
 
-Even though there has been significant progress in the application of tools from inferential statistics to deterministic dynamics, _the bootstrap_, a versatile tool that achieves higher-order estimation accuracy than the normal approximation, had not been implemented until my work with [Nan Zou](https://sites.google.com/site/nzoupersonal/home). Our bootstrap enables one to evaluate the **randomness of estimates** of important dynamical quantities like the top _Lyapunov exponent_ and _metric entropy_ by constructing their 95% confidence intervals. Currently, we are working on coming up with **better estimates** for _spectral densities_ in dynamical systems. 
+Even though there has been significant progress in the application of tools from inferential statistics to deterministic dynamics, _the bootstrap_, a versatile tool that achieves higher-order estimation accuracy than the normal approximation, had not been implemented until my work with [Nan Zou](https://sites.google.com/site/nzoupersonal/home). Our bootstrap enables one to evaluate the **randomness of estimates** of important dynamical quantities like the top _Lyapunov exponent_ and _metric entropy_ by constructing their 95% confidence intervals. Currently, we are working on coming up with **better estimates** for _spectral densities_ of dynamical systems. 
 
-<img src="https://miro.medium.com/max/2648/1*SgeDm_wb2QNSF0CSYVmhuw.jpeg" align="center" height="225" hspace="250" vspace="20" title="The boostrap for iid data"/>
+<img src="https://i.ibb.co/G3VqRDG/bootstrap.png" align="center" height="225" hspace="150" vspace="20" title="The boostrap for iid data"/>
 
 In recent years, with the proliferation of machine learning research, modeling and prediction of real-world phenomena have progressed to the next level. The problem of **computing estimates** for an unknown probability distribution using sample data is crucial for applications; for example, **computing estimates** of invariant densities of dynamical systems. In machine learning, _Normalizing flows_ (NFs) are a supervised learning procedure that determines the probability distribution of sample data by performing a maximum likelihood optimization. With [Sameera Ramasinghe](https://www.linkedin.com/in/sameeraramasinghe/), I introduced a framework to construct NFs that demonstrate higher robustness against initial errors. Even though NFs are susceptible to numerical instabilities, this is the first time robustness of NFs is investigated in the literature. 
 
 <img src="https://cdn-thumbs.imagevenue.com/0f/c8/7d/ME15BEQ6_t.png" align="center" height="225" hspace="300" vspace="20" title="From top to bottom: ground truth, NF prediction and predicted density"/>
 
 <!--
+<img src="https://miro.medium.com/max/2648/1*SgeDm_wb2QNSF0CSYVmhuw.jpeg" align="center" height="225" hspace="250" vspace="20" title="The boostrap for iid data"/>
 <img src="https://cdn-thumbs.imagevenue.com/5a/85/f4/ME15BEQ1_t.png" align="center" 
      height="225" hspace="100" vspace="20"/>  
 <img src="https://cdn-thumbs.imagevenue.com/f5/31/c3/ME15BEQ7_t.png" align="left" height="120" hspace="20" vspace="50"/>
