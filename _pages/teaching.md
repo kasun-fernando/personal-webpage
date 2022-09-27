@@ -10,7 +10,14 @@ Apart from research, I am passionate about disseminating mathematical knowledge 
 - Motivating and guiding students to realise their goals, and
 - Creating an inclusive classroom environment for *all* students.
 
-I also believe that 
+Also, I am a proponent of [Federico Ardila](https://en.wikipedia.org/wiki/Federico_Ardila)'s axioms:
+    
+**Axiom 1**. Mathematical potential is distributed equally among different groups, irrespective of geographic, demographic, and economic boundaries.   
+**Axiom 2**. Everyone can have joyful, meaningful, and empowering mathematical experiences.   
+**Axiom 3**. Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.     
+**Axiom 4**. Every student deserves to be treated with dignity and respect.   
+
+Therefore, I believe that
 - Every student’s identity, language, and culture need to be respected and valued,
 - Every student has the right to access effective mathematics education, and 
 - Every student can become a successful learner of mathematics.
