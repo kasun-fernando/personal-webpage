@@ -3,12 +3,17 @@ layout: postmod
 title: Teaching              
 permalink: /Teaching/          
 ---
-Apart from research, I am passionate about disseminating mathematical knowledge to future generations. Since how mathematics is taught plays a significant role in determining how students perceive it, math education has far-reaching consequences for the survival and development of mathematics as a scientific discipline. That is why I have the following objectives as an educator:
-- Communicating mathematical concepts clearly along with applications,
+Apart from research, I am passionate about disseminating mathematical knowledge to future generations. Since how mathematics is taught plays a significant role in determining how students perceive it, math education has far-reaching consequences for the survival and development of mathematics as a scientific discipline. That is why I have the following objectives as an educator in mathematics:
+- Communicating mathematical concepts clearly, effectively and intuitively,
 - Nurturing the creativity and mathematical talent of students,
-- Creating an inclusive classroom environment for all students,
-- Fostering independence and critical thinking capabilities, and 
-- Motivating and guiding students to realise their goals. 
+- Fostering independence and critical thinking capabilities,  
+- Motivating and guiding students to realise their goals, and
+- Creating an inclusive classroom environment for *all* students.
+
+I also believe that 
+- Every student’s identity, language, and culture need to be respected and valued,
+- Every student has the right to access effective mathematics education, and 
+- Every student can become a successful learner of mathematics.
    
 For more than a decade, I have taught mathematics in various capacities to a diverse group of students, and I am committed to being an effective and engaging teacher for students from all backgrounds, and below, I have summarized my experience related to teaching.
 
