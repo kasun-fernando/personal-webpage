@@ -5,16 +5,7 @@ permalink: /Publications/
 ---
 Here is a list of my research articles along with their abstracts.<br>   
 
-***         
-[**An error term in the Central Limit Theorem for sums of discrete random variables**](otherfiles/EdgeManyAtoms.pdf)
-<font size = "3">with Dmitry Dolgopyat, 42 pp (revisions submitted)</font>
-<details>
-<summary>Abstract</summary>     
-  
-<p align="justify"><font size = "2">We consider sums of independent identically distributed random variables those distributions have $d+1$ atoms. Such distributions never admit an Edgeworth expansion of order $d$ but we show that for almost all parameters the Edgeworth expansion of order $d-1$ is valid and the error of the order $d-1$ Edgeworth expansion is typically of order $n^{-d/2}$.</font></p>  
-</details>
----      
-
+*** 
 [**The Bootstrap for dynamical systems**](https://arxiv.org/abs/2108.08461)
 <font size = "3">with Nan Zou, 69 pp (submitted)</font>
 <details>
@@ -22,10 +13,19 @@ Here is a list of my research articles along with their abstracts.<br>
   
 <p align="justify"><font size = "2">Despite their deterministic nature, dynamical systems often exhibit seemingly random behaviour. Consequently, a dynamical system is usually represented by a probabilistic model of which the unknown parameters must be estimated using statistical methods. When measuring the uncertainty of such parameter estimation, the bootstrap stands out as a simple but powerful technique. In this paper, we develop the bootstrap for dynamical systems and establish not only its consistency but also its second-order efficiency via a novel continuous Edgeworth expansion for dynamical systems. Moreover, we verify the theoretical results about the bootstrap using computer simulations.</font></p>              
 </details>
----            
+---         
+
+[**An error term in the Central Limit Theorem for sums of discrete random variables**](otherfiles/EdgeManyAtoms.pdf)
+<font size = "3">with Dmitry Dolgopyat, Internantional Mathematics Research Notices, 42 pp (accepted with revisions)</font>
+<details>
+<summary>Abstract</summary>     
+  
+<p align="justify"><font size = "2">We consider sums of independent identically distributed random variables those distributions have $d+1$ atoms. Such distributions never admit an Edgeworth expansion of order $d$ but we show that for almost all parameters the Edgeworth expansion of order $d-1$ is valid and the error of the order $d-1$ Edgeworth expansion is typically of order $n^{-d/2}$.</font></p>  
+</details>
+---          
 
 [**Robust normalizing flows using Bernstein-type polynomials**](https://arxiv.org/abs/2102.03509)
-<font size = "3">with Sameera Ramasinghe, 15 pp (submitted)</font>  
+<font size = "3">with Sameera Ramasinghe, The 33rd British Machine Vision Conference (BMVC), November 2022, London, UK, 19 pp</font>  
 <details>
 <summary>Abstract</summary>      
   
