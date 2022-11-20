@@ -11,7 +11,7 @@ Here is a list of my research articles along with their abstracts.<br>
 <details>
 <summary>Abstract</summary>     
   
-<p align="justify"><font size = "2">We prove the Central Limit Theorem, a Mixing Local Limit Theorem and the first order Edgeworth expansion for the Birkhoff sum of a class of $L^3$ observables over Boolean-type transformations on $\reals$ using the spectral approach based on the Keller-Liverani perturbation result. The class of observables include the real part, the imaginary part and the absolute value of Riemann zeta function. This result is in the spirit of a result by Steuding who has proven a strong law of large numbers for sampling the Lindelof Hypothesis.</font></p>              
+<p align="justify"><font size = "2">We prove the Central Limit Theorem, a Mixing Local Limit Theorem and the first order Edgeworth expansion for the Birkhoff sum of a class of $L^3$ observables over Boolean-type transformations on $\mathbb{R}$ using the spectral approach based on the Keller-Liverani perturbation result. The class of observables include the real part, the imaginary part and the absolute value of Riemann zeta function. This result is in the spirit of a result by Steuding who has proven a strong law of large numbers for sampling the Lindelof Hypothesis.</font></p>              
 </details>
 ---           
 
