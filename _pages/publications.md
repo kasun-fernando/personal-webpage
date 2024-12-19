@@ -3,11 +3,11 @@ layout: postmod
 title: Publications             
 permalink: /Publications/          
 ---
-Here is a list of my research articles along with their abstracts.<br>   
+Here is a list of research articles I have contributed to.<br>   
 
 *** 
-**Limit Theorems for a class of unbounded observables with an application to "Sampling the Lindelof Hypothesis"**
-<font size = "3">with Tanja Schindler, 49 pp (draft available)</font>
+[**Limit Theorems for a class of unbounded observables with an application to "Sampling the Lindelof Hypothesis"**](https://arxiv.org/abs/2302.13807)
+<font size = "3">with Tanja Schindler, 49 pp</font>
 <details>
 <summary>Abstract</summary>     
   
@@ -23,6 +23,15 @@ Here is a list of my research articles along with their abstracts.<br>
 <p align="justify"><font size = "2">Despite their deterministic nature, dynamical systems often exhibit seemingly random behaviour. Consequently, a dynamical system is usually represented by a probabilistic model of which the unknown parameters must be estimated using statistical methods. When measuring the uncertainty of such parameter estimation, the bootstrap stands out as a simple but powerful technique. In this paper, we develop the bootstrap for dynamical systems and establish not only its consistency but also its second-order efficiency via a novel continuous Edgeworth expansion for dynamical systems. Moreover, we verify the theoretical results about the bootstrap using computer simulations.</font></p>              
 </details>
 ---         
+
+[**On the Reliability of Watermarks for Large Language Models**](https://arxiv.org/abs/2306.04634)
+<font size = "3"> with John Kirchenbauer, Jonas Geiping, Yuxin Wen, Manli Shu, Khalid Saifullah, Kezhi Kong, Aniruddha Saha, Micah Goldblum, and Tom Goldstein, at International Conference on Learning Representations (ICLR), May 2024, Vienna, Austria, 45 pp</font>
+<details>
+<summary>Abstract</summary>
+  
+<p align="justify"><font size = "2">As LLMs become commonplace, machine-generated text has the potential to flood the internet with spam, social media bots, and valueless content. Watermarking is a simple and effective strategy for mitigating such harms by enabling the detection and documentation of LLM-generated text. Yet a crucial question remains: How reliable is watermarking in realistic settings in the wild? There, watermarked text may be modified to suit a user's needs, or entirely rewritten to avoid detection. We study the robustness of watermarked text after it is re-written by humans, paraphrased by a non-watermarked LLM, or mixed into a longer hand-written document. We find that watermarks remain detectable even after human and machine paraphrasing. While these attacks dilute the strength of the watermark, paraphrases are statistically likely to leak n-grams or even longer fragments of the original text, resulting in high-confidence detections when enough tokens are observed. For example, after strong human paraphrasing the watermark is detectable after observing 800 tokens on average, when setting a 1e-5 false positive rate. We also consider a range of new detection schemes that are sensitive to short spans of watermarked text embedded inside a large document, and we compare the robustness of watermarking to other kinds of detectors.
+</details>
+---       
 
 [**An error term in the Central Limit Theorem for sums of discrete random variables**](otherfiles/EdgeManyAtoms.pdf)
 <font size = "3">with Dmitry Dolgopyat, Internantional Mathematics Research Notices, 42 pp (accepted with revisions)</font>
