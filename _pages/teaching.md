@@ -9,18 +9,13 @@ Apart from research, I am passionate about disseminating mathematical knowledge 
 - Fostering independence and critical thinking capabilities,  
 - Motivating and guiding students to realise their goals, and
 - Creating an inclusive classroom environment for *all* students.
-
-Also, I am a proponent of [Federico Ardila](https://en.wikipedia.org/wiki/Federico_Ardila)'s axioms:
-    
-**Axiom 1**. Mathematical potential is distributed equally among different groups, irrespective of geographic, demographic, and economic boundaries.   
-**Axiom 2**. Everyone can have joyful, meaningful, and empowering mathematical experiences.   
-**Axiom 3**. Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.     
-**Axiom 4**. Every student deserves to be treated with dignity and respect.   
-
-Therefore, I believe that
+  
+I strongly believe that
 - Every student’s identity, language, and culture need to be respected and valued,
 - Every student has the right to access effective mathematics education, and 
 - Every student can become a successful learner of mathematics.
+  
+and I am proponent of [Federico Ardila](https://en.wikipedia.org/wiki/Federico_Ardila)'s axioms. 
    
 For more than a decade, I have taught mathematics in various capacities to a diverse group of students, and I am committed to being an effective and engaging teacher for students from all backgrounds, and below, I have summarized my experience related to teaching.
 
@@ -34,25 +29,26 @@ For more than a decade, I have taught mathematics in various capacities to a div
 
 ## Teaching Experience
 
-#### Minicourses (designed and taught)
-- 2021 - Dynamical Systems: Stability, Bifurcations & Applications, International Conference on Multidisciplinary Approaches in Science, University of Colombo
+#### Minicourses 
+- 2025 - Optimisation, Machine Learning, and Optimal Control, ICCMM 2025, University of Colombo
+- 2025 - Stochastics and Dynamics, University of Sri Jayawardenpura (Funded by the London Mathematical Society's Scheme 6 Grant)
+- 2024 - A Hitchhiker’s Guide to Control Theory, ICCMM 2024, University of Colombo
+- 2021 - Dynamical Systems: Stability, Bifurcations & Applications, ICMAS 2021, University of Colombo
 - 2019 - Asymptotics for Limit Theorems in Dynamical Systems, University of Toronto
 - 2019 - Introduction to Dynamical Systems, University of Colombo      
 
-#### Instructor at the Math Outreach Office, University of Toronto
-- Fall 2021 - Math Contest Preparation Club (online)     
-- Summer 2021 - Canada Math Camp 2021 (online)    
+#### Lecturer at Brunel University of London
+- 2024/2025 Spring - MA1636 Probability and Statistics I, MA2679 Statistical Programming for Data Analytics
+- 2024/2025 Autumn - MA2603 Multivariable Calculus, MA1639 Elements of Applied Mathematics I
+- 2023/2024 Term I & II - MA1612 Fundamentals of Mathematics
 
-#### Instructor at the University of Toronto 
+#### Course Instructor at the University of Toronto 
 - Winter 2021 - MAT232 Calculus of Several Variables (online)     
 - Fall 2020 - [STA348 Introduction to Stochastic Processes](https://q.utoronto.ca/courses/174782) (online)      
 - Winter 2020 - [MAT311 Partial Differential Equations](https://q.utoronto.ca/courses/130402)   
 - Fall 2019 - [MAT332 Introduction to Nonlinear Dynamics and Chaos](https://q.utoronto.ca/courses/107052)  
 - Winter 2019 - MAT135 Calculus    
 - Fall 2018 - MAT135 Calculus    
-
-#### Instructor at Sri Lanka Olympiad Mathematics Foundation 
-- 2009 to 2014 - Selecting, training and facilitating the Sri Lankan IMO and IMC teams
 
 #### Teaching Assistant at the Scuola Normale Superiore di Pisa 
 - Fall 2021 - Introduction to Dynamical Systems I 
@@ -68,4 +64,11 @@ For more than a decade, I have taught mathematics in various capacities to a div
 - Fall 2014 - MATH220 Elememtary Calculus
 
 #### Teaching Assistant at the University of Colombo 
-- 2014 - PM4003 Measure Theory, PM3052 Real Analysis I, PM3054 Topology I, PM2001 Calculus II    
+- 2014 - PM4003 Measure Theory, PM3052 Real Analysis I, PM3054 Topology I, PM2001 Calculus II
+
+#### Instructor at the Math Outreach Office, University of Toronto
+- Fall 2021 - Math Contest Preparation Club (online)     
+- Summer 2021 - Canada Math Camp 2021 (online)    
+
+#### Instructor at Sri Lanka Olympiad Mathematics Foundation 
+- 2009 to 2014 - Selecting, training and facilitating the Sri Lankan IMO and IMC teams  
