@@ -3,7 +3,11 @@ layout: postmod
 title: Outreach              
 permalink: /Outreach/          
 ---
-Since I am part of the visible minority, through my lived experiences, I have understood the importance of role models, visibility, and the availability of opportunities during school and further education. That is why I have contributed to outreach and diversity promotion activities since the beginning of my undergraduate studies. Below, I have listed four key avenues through which I was involved. 
+Since I am part of the visible minority, through my lived experiences, I have understood the importance of role models, visibility, and the availability of opportunities during school and further education. That is why I have contributed to outreach and diversity promotion activities since the beginning of my undergraduate studies. Below, I have listed several ways I have contributed to the wider community. 
+
+### EPSRC Mathematical Science Early Career Forum
+
+The Mathematical Sciences ECF is an informal adivsory body helping with two-way communication between EPSRC and early career mathematicians. 
 
 ### The Fields Institute & the Fields Academy
 
