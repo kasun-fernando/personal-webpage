@@ -8,17 +8,15 @@ Broadly, the prime focus of my research is <b>the interplay among probability th
 - <b>inferential statistics in the context of dynamical systems</b>, and 
 - <b>higher order asymptotics for limit theorems</b>   
 
-using spectral theory and a combination of techniques from classical probability theory, stochastic analysis, statistics, and dynamical systems. Recently, I have started looking at      
-- <b>applications of machine learning</b> to problems related to my main research interests. 
+using spectral theory and a combination of techniques from classical probability theory, stochastic analysis, statistics, and dynamical systems. 
 
-So far, I have formed research connections not only with dynamicists and probabilists but also with machine learning researchers and statisticians, and I am actively searching for interdisciplinary research opportunities.
-
-Below, I briefly discuss some of my research interests under three themes. The resulting publications are listed [here](https://kasun-fernando.github.io/personal-webpage/Publications/).
+Recently, I have started looking at      
+- <b>applications of machine learning</b> in various settings. 
 
 ## Invariants and Universality
 When studying physical systems with many degrees of freedom, it is impossible to keep track of microscopic behaviour based on physical laws. Imagine writing equations of motion for about $6 \times 10^{23}$ gas particles (about 1 mole) with inter-dependencies and solving that system of equations!
 
-<img src="https://cosmolearning.org/images_dir/courses/618/profile-thumbnail-w300.jpg" height="250" align="center" hspace="250" vspace="20" title="A closed many particle system"/>
+<img src="images/particles.png" height="250" align="center" hspace="250" vspace="20" title="A closed many particle system"/>
         
 _Statistical Physics_ is the study of how these particle-particle interactions describe systems on a macroscopic scale. One can calculate _observable properties_ of a system either as averages over _phase trajectories_ (Ergodic Theory) or as averages over an _ensemble_ of systems, each of which is a copy of the system (Thermodynamics). In either case, **invariant measures** of systems play a crucial role, and showing their existence (and uniqueness) of them is a problem of importance. In fact, the **ergodic invariant measures** can be used to describe the statistics of a system entirely.  
 
