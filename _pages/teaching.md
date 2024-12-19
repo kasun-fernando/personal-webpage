@@ -17,15 +17,7 @@ I strongly believe that
   
 and I am proponent of [Federico Ardila](https://en.wikipedia.org/wiki/Federico_Ardila)'s axioms. 
    
-For more than a decade, I have taught mathematics in various capacities to a diverse group of students, and I am committed to being an effective and engaging teacher for students from all backgrounds, and below, I have summarized my experience related to teaching.
-
-## Instructor Training
-- 2021 - Developing Curriculum, Blended Learning, Flipped Classroom - Linkedin Learning courses on modern teaching techniques 
-- 2021 - Core Strategies for Teaching in Higher Ed, Linkedin Learning course by Prof. Karl Kapp 
-- 2020 - Summer Camp on Online Teaching, Teaching and Learning Collaboration, University of Toronto
-- 2019 - Pedagogical Reading Group -  _What the Best College Teachers Do_ by Prof. Ken Bain, Teaching and Learning Collaboration, University of Toronto
-- 2018 - Course design 101 - Teaching and Learning Collaboration, University of Toronto
-- 2014 - Teaching Seminar, Department of Mathematics, University of Maryland
+For more than a decade, I have taught mathematics in various capacities to a diverse group of students, and I am committed to being an effective and engaging teacher for students from all backgrounds. Below, I have summarised my experience related to teaching.
 
 ## Teaching Experience
 
@@ -71,4 +63,14 @@ For more than a decade, I have taught mathematics in various capacities to a div
 - Summer 2021 - Canada Math Camp 2021 (online)    
 
 #### Instructor at Sri Lanka Olympiad Mathematics Foundation 
-- 2009 to 2014 - Selecting, training and facilitating the Sri Lankan IMO and IMC teams  
+- 2009 to 2014 - Selecting, training and facilitating the Sri Lankan IMO and IMC teams
+
+## Instructor Training
+- 2024 - Currently enrolled in the APEX Open for the Fellowship of Advance HE, UK
+- 2021 - Developing Curriculum, Blended Learning, Flipped Classroom - Linkedin Learning courses on modern teaching techniques 
+- 2021 - Core Strategies for Teaching in Higher Ed, Linkedin Learning
+- 2020 - Summer Camp on Online Teaching, Teaching and Learning Collaboration, University of Toronto
+- 2019 - Pedagogical Reading Group -  _What the Best College Teachers Do_ by Prof. Ken Bain, Teaching and Learning Collaboration, University of Toronto
+- 2018 - Course design 101 - Teaching and Learning Collaboration, University of Toronto
+- 2014 - Teaching Seminar, Department of Mathematics, University of Maryland
+
