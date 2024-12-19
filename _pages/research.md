@@ -3,7 +3,7 @@ layout: postmod
 title: Research              
 permalink: /Research/          
 ---
-Broadly, the prime focus of my research is <b>the interplay among probability theory, dynamical systems, and statistics</b>. I investigate 
+Broadly, the prime focus of my research is the interplay among probability theory, dynamical systems, and statistics. I investigate 
 - <b>statistical properties of dynamical systems and Markov processes</b>,
 - <b>inferential statistics in the context of dynamical systems</b>, and 
 - <b>higher order asymptotics for limit theorems</b>   
