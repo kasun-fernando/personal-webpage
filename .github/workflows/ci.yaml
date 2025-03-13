@@ -44,6 +44,9 @@ jobs:
           rm -rf _site
           sudo chmod -R 777 .
 
+      - name: Update rubygems
+        run: gem update --system
+
       - name: Jekyll build
         uses: docker://fastai/fastpages-jekyll
         with:
