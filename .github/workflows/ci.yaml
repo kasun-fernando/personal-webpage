@@ -2,8 +2,7 @@ name: CI
 on:
   push:
     branches:
-      - master # need to filter here so we only deploy when there is a push to master
-  # no filters on pull requests, so intentionally left blank
+      - master
   pull_request:
   workflow_dispatch:
 
@@ -43,6 +42,10 @@ jobs:
         run: |
           rm -rf _site
           sudo chmod -R 777 .
+
+      # Remove or replace the RubyGems update step
+      # - name: Update rubygems
+      #   run: gem update --system
 
       - name: Jekyll build
         uses: docker://fastai/fastpages-jekyll
